@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   type="github"
   icon=""
   text="GitHub"
-  link="https://github.com/PLAN-Lab"
+  link="PLAN-Lab"
   style="button"
 %}
 
