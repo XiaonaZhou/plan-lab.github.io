@@ -1,4 +1,5 @@
 {%- assign type = site.data.roles[include.type] -%}
+{%- assign no_tooltip = include.no_tooltip | default: false -%}
 
 {% if type -%}
 
@@ -12,6 +13,9 @@
     {%- assign text = type.text -%}
   {%- else -%}
     {%- assign tooltip = type.text -%}
+    {%- if no_tooltip -%}
+      {%- assign tooltip = nil -%}
+    {%- endif -%}
   {%- endif -%}
 
   <div class="role" {% if tooltip %}data-tooltip="{{ tooltip }}"{% endif %}>
