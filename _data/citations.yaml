@@ -1,67 +1,159 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1038/s41597-021-00863-5
+  title: Creation and validation of a chest X-ray dataset with eye-tracking and report
+    dictation for AI development
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-  _cache: 371e391cc663116136dc43f4c93ebdc2998f52a3abd67c7add918c3b9f4f98d9
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - Alexandros Karargyris
+  - Satyananda Kashyap
+  - Ismini Lourentzou
+  - Joy T. Wu
+  - Arjun Sharma
+  - Matthew Tong
+  - Shafiq Abedin
+  - David Beymer
+  - Vandana Mukherjee
+  - Elizabeth A. Krupinski
+  - Mehdi Moradi
+  publisher: Scientific Data
+  date: '2021-03-25'
+  link: https://doi.org/gqt86z
+  _cache: af05ac0a1651cc9cdf407412a33c4ffbe34c8c11fd48162fbc568b67fda89886
+- id: doi:10.1145/3404835.3462959
+  title: 'DeepQAMVS: Query-Aware Hierarchical Pointer Networks for Multi-Video Summarization'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  _cache: 9b4d326347b4c43474de520edff579266c3c490e1baf4a2074ea151d6c90e318
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Safa Messaoud
+  - Ismini Lourentzou
+  - Assma Boughoula
+  - Mona Zehni
+  - Zhizhen Zhao
+  - Chengxiang Zhai
+  - Alexander G. Schwing
+  publisher: Proceedings of the 44th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2021-07-11'
+  link: https://doi.org/gqt862
+  _cache: 71e310ce64a6d682631f828029ec27e3fd729608ed44853ae7c0241d6604174e
+- id: doi:10.1007/978-3-030-87240-3_77
+  title: 'AnaXNet: Anatomy Aware Multi-label Finding Classification in Chest X-Ray'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
-  _cache: 1510c88d1d7cdb29f090da47b0903118fa57243de166541c8ff31c614fc05604
+  - Nkechinyere N. Agu
+  - Joy T. Wu
+  - Hanqing Chao
+  - Ismini Lourentzou
+  - Arjun Sharma
+  - Mehdi Moradi
+  - Pingkun Yan
+  - James Hendler
+  publisher: "Medical Image Computing and Computer Assisted Intervention \u2013 MICCAI\
+    \ 2021"
+  date: '2021-01-01'
+  link: https://doi.org/gqt863
+  _cache: ceb770b27074d0a41de306d7c9e638053acbb87ca396c9b6bfcee0aa00f8473c
+- id: doi:10.1145/3459637.3481950
+  title: SAUCE
+  authors:
+  - Muntasir Wahed
+  - Daniel Gruhl
+  - Alfredo Alba
+  - Anna Lisa Gentile
+  - Petar Ristoski
+  - Chad DeLuca
+  - Steve Welch
+  - Ismini Lourentzou
+  publisher: Proceedings of the 30th ACM International Conference on Information &amp;
+    Knowledge Management
+  date: '2021-10-26'
+  link: https://doi.org/gqt864
+  _cache: b8c211fa0b889ead5d029f1e79ca5ca14d16e11c4791f1d42f9cb8d66a6041e7
+- id: doi:10.1111/mice.12812
+  title: Toward a general unsupervised novelty detection framework in structural health
+    monitoring
+  authors:
+  - "Mohammad Hesam Soleimani\u2010Babakamali"
+  - Reza Sepasdar
+  - Kourosh Nasrollahzadeh
+  - Ismini Lourentzou
+  - Rodrigo Sarlo
+  publisher: Computer-Aided Civil and Infrastructure Engineering
+  date: '2022-01-21'
+  link: https://doi.org/gp5xhh
+  _cache: 41f88019faec2f8b9b4322d3f4a3dfc26084937e95a32001a079de2deeda6552
+- id: doi:10.48550/arXiv.2108.00316
+  title: Chest ImaGenome Dataset for Clinical Reasoning
+  authors:
+  - Joy T. Wu
+  - Nkechinyere N. Agu
+  - Ismini Lourentzou
+  - Arjun Sharma
+  - Joseph A. Paguio
+  - Jasper S. Yao
+  - Edward C. Dee
+  - William Mitchell
+  - Satyananda Kashyap
+  - Andrea Giovannini
+  - Leo A. Celi
+  - Mehdi Moradi
+  publisher: arXiv
+  date: '2021-01-01'
+  link: https://doi.org/gqt865
+  _cache: 311d7285396af50f7ac482940e0a5358d49683e5f0e627e5938aaf0213ced785
+- id: doi:10.48550/arXiv.2204.10314
+  title: Adversarial Contrastive Learning by Permuting Cluster Assignments
+  authors:
+  - Muntasir Wahed
+  - Afrina Tabassum
+  - Ismini Lourentzou
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gqt866
+  _cache: 25ce1386e16bae098d23d6a545bc20f1356ace7d53970ebc7639f00c6bea7b3c
+- id: doi:10.48550/arXiv.2206.01197
+  title: Hard Negative Sampling Strategies for Contrastive Representation Learning
+  authors:
+  - Afrina Tabassum
+  - Muntasir Wahed
+  - Hoda Eldardiry
+  - Ismini Lourentzou
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gqt867
+  _cache: c0a3603a88f941954a5dcff38481a0e7c917242c642c052ebaa1ce9edb70a332
+- id: doi:10.48550/arXiv.2206.07796
+  title: 'FixEval: Execution-based Evaluation of Program Fixes for Competitive Programming
+    Problems'
+  authors:
+  - Md Mahim Anjum Haque
+  - Wasi Uddin Ahmad
+  - Ismini Lourentzou
+  - Chris Brown
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gqt868
+  _cache: eb092b7b2dfa2085f042b41951ca2cd8c8e197063c9c6af4f6e9bff6a03e9b49
+- id: doi:10.1145/3529190.3529222
+  title: '[Data] Quality Lies In The Eyes Of The Beholder'
+  authors:
+  - Xavier Pleimling
+  - Vedant Shah
+  - Ismini Lourentzou
+  publisher: The15th International Conference on PErvasive Technologies Related to
+    Assistive Environments
+  date: '2022-06-29'
+  link: https://doi.org/gqt869
+  _cache: 047c35c16d4ab9b9399b85aa4a48bb078adfc318562230125af3993dc2a2b8d6
+- id: doi:10.48550/arXiv.2208.03873
+  title: 'CheXRelNet: An Anatomy-Aware Model for Tracking Longitudinal Relationships
+    between Chest X-Rays'
+  authors:
+  - Gaurang Karwande
+  - Amarachi Mbakawe
+  - Joy T. Wu
+  - Leo A. Celi
+  - Mehdi Moradi
+  - Ismini Lourentzou
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/gqt87b
+  _cache: 3971d0201438ac1b65048c973c302d14bd6a7d3022870fc312bd35dfe74768cb
