@@ -6,14 +6,18 @@
 @import "mixins";
 
 .card {
+  // background-color: $gray-50;
   display: inline-flex;
   justify-content: flex-start;
-  align-items: center;
+  align-items: left;
   flex-direction: column;
   gap: 20px;
   width: var(--width);
   max-width: calc(100% - 20px - 20px);
   margin: 20px;
+  padding:20px;
+  box-shadow: $shadow;
+  
 
   & > * {
     margin: 0;
@@ -39,6 +43,7 @@
   }
 
   .card_title {
+    text-align: center;
     font-family: $sans;
     font-weight: $medium;
   }
@@ -47,4 +52,12 @@
     margin-top: -15px;
     font-style: italic;
   }
+
+  .card_info{
+    text-align: left;
+    font-family: $sans;
+    font-weight: $thin;
+    font-size: small;
+  }
+  
 }

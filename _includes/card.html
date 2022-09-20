@@ -14,14 +14,16 @@
 
 {::nomarkdown}
 <span class="card" style="--width: {{ width }}px">
-  <{{ tag }} href="{{ include.link | relative_url }}" class="card_image">
-    <img
-      src="{{ include.image | relative_url }}"
-      onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
-      loading="lazy"
-      alt=""
-    >
-  </{{ tag }}>
+  {%- if include.image -%}
+    <{{ tag }} href="{{ include.link | relative_url }}" class="card_image">
+      <img
+        src="{{ include.image | relative_url }}"
+        onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
+        loading="lazy"
+        alt=""
+      >
+    </{{ tag }}>
+  {%- endif -%}
 
   {%- if include.title -%}
     <{{ tag }} href="{{ include.link | relative_url }}" {% if include.tooltip %}data-tooltip="{{ include.tooltip }}"{% endif %} class="card_title">
@@ -29,12 +31,27 @@
     </{{ tag }}>
   {%- endif -%}
 
-  {%- if include.subtitle -%}
-    <span class="card_subtitle">{{- include.subtitle -}}</span>
-  {%- endif -%}
-
-  {%- if include.description -%}
-    {{- include.description | markdownify -}}
+  <span class="card_info">
+    {%- if include.abstract-deadline -%}
+      Abstract deadline: {{ include.abstract-deadline }}
+    {%- endif -%}
+    <br>
+    {%- if include.submission-deadline -%}
+      Submission deadline: {{ include.submission-deadline }}
+    {%- endif -%}
+    <br>
+    {%- if include.conference-date -%}
+      Conference Date: {{ include.conference-date }}
+    {%- endif -%}
+    <br>
+    {%- if include.conference-location -%}
+      Location: {{ include.conference-location }}
+    {%- endif -%}
+  </span>
+  {%- if include.subtitle-%}
+    <span class="card_subtitle">
+      {{ include.subtitle }}
+    </span>
   {%- endif -%}
 
   {%- if include.tags or include.repo -%}

@@ -1,0 +1,570 @@
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://cvpr2023.thecvf.com/
+  conference-date: Jun 18-22, 2023
+  conference-location: Vancouver, Canada
+  core-ranking: A*
+  h5-index: '389'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: Nov 11, 2022
+  tags:
+  - computer vision
+  title: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://iclr.cc/Conferences/2023/CallForPapers
+  conference-date: May 1-5, 2023
+  conference-location: Kigali, Rwanda
+  core-ranking: A*
+  h5-index: '286'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: Sep 21, 2022
+  tags:
+  - machine learning
+  title: International Conference on Learning Representations (ICLR )
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: '-'
+  conference-location: '-'
+  core-ranking: A*
+  h5-index: '278'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: '-'
+  tags:
+  - machine learning
+  title: Neural Information Processing Systems (NeurIPS )
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://iccv2023.thecvf.com/
+  conference-date: Sep 30 - Oct 6, 2023
+  conference-location: Paris, France
+  core-ranking: A*
+  h5-index: '239'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: Mar 8, 2023
+  tags:
+  - computer vision
+  title: International Conference on Computer Vision (ICCV )
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: Jul 24 - 30, 2023
+  conference-location: Seoul, South Korea
+  core-ranking: A*
+  h5-index: '237'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: '-'
+  tags:
+  - machine learning
+  title: International Conference on Machine Learning (ICML)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: Will be organized in 2024
+  conference-date: '-'
+  conference-location: '-'
+  core-ranking: A*
+  h5-index: '186'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: '-'
+  tags:
+  - computer vision
+  title: European Conference on Computer Vision (ECCV)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: '-'
+  conference-location: '-'
+  core-ranking: A*
+  h5-index: '169'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: '-'
+  tags:
+  - natural language processing
+  title: Annual Meeting of the Association for Computational Linguistics (ACL)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://aaai.org/Conferences/AAAI-23/aaai23call/
+  conference-date: Feb 7 - 14, 2023
+  conference-location: Washington D.C.
+  core-ranking: A*
+  h5-index: '180'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: Aug 8, 2022
+  tags:
+  - machine learning
+  title: Association for the Advancement of Artificial Intelligence (AAAI)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: '-'
+  conference-location: '-'
+  core-ranking: A
+  h5-index: '154'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: '-'
+  tags:
+  - natural language processing
+  title: Conference on Empirical Methods in Natural Language Processing (EMNLP)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: August 1, 2023
+  conference-location: Cape Town, South Africa
+  core-ranking: A*
+  h5-index: '120'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: '-'
+  tags:
+  - machine learning
+  title: International Joint Conference on Artificial Intelligence (IJCAI)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://www.icra2023.org/programme/call-contributions
+  conference-date: "May 29 \u2013 Jun 2, 2023"
+  conference-location: London, UK
+  core-ranking: B
+  h5-index: '116'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: Sep 15, 2022
+  tags:
+  - robotics
+  title: International Conference on Robotics and Automation (ICRA)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: '-'
+  conference-location: '-'
+  core-ranking: A*
+  h5-index: '114'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: '-'
+  tags:
+  - data mining
+  title: ACM SIGKDD International Conference on Knowledge discovery and data mining
+    (SIGKDD)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: '-'
+  conference-location: '-'
+  core-ranking: A
+  h5-index: '105'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: '-'
+  tags:
+  - natural language processing
+  title: North American Chapter of the Association for Computational Linguistics (NAACL)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://2023.ieeeicassp.org/
+  conference-date: '-'
+  conference-location: '-'
+  core-ranking: B
+  h5-index: '110'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: Oct 19, 2022
+  tags:
+  - speech processing
+  title: International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://www2023.thewebconf.org/
+  conference-date: '-'
+  conference-location: '-'
+  core-ranking: A*
+  h5-index: '98'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: '-'
+  tags:
+  - web
+  - ' social network analysis'
+  title: International World Wide Web Conference (WWW)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: TBA
+  conference-location: TBA
+  core-ranking: A
+  h5-index: '80'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: TBA
+  tags:
+  - robotics
+  title: International Conference on Intelligent Robots and Systems (IROS)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: TBA
+  conference-location: TBA
+  core-ranking: A*
+  h5-index: '71'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: TBA
+  tags:
+  - multimedia
+  title: ACM Multimedia (ACMMM)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: TBA
+  conference-location: TBA
+  core-ranking: A*
+  h5-index: '75'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: TBA
+  tags:
+  - infromation retrieval
+  title: International ACM SIGIR Conference on Research and Development in Information
+    Retrieval (SIGIR)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: TBA
+  conference-location: TBA
+  core-ranking: A
+  h5-index: '75'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: TBA
+  tags:
+  - computer vision
+  title: British Machine Vision Conference (BMVC)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://aistats.org/aistats2023/
+  conference-date: Mar 30 - Apr 1, 2023
+  conference-location: USA
+  core-ranking: A
+  h5-index: '85'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: Oct 6, 2022
+  tags:
+  - machine learning
+  - ' artificial intelligence'
+  title: International Conference on Artificial Intelligence and Statistics (AISTATS)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: TBA
+  conference-location: TBA
+  core-ranking: A
+  h5-index: '69'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: TBA
+  tags:
+  - machine learning
+  title: ACM International Conference on Information and Knowledge Management (CIKM)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: TBA
+  conference-location: TBA
+  core-ranking: A*
+  h5-index: '63'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: TBA
+  tags:
+  - machine learning
+  title: Conference on Learning Theory (COLT)
+- abstract-deadline: Aug 22, 2022
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://wacv2023.thecvf.com/node/135
+  conference-date: Jan 4 - 6, 2023
+  conference-location: Waikoloa, Hawaii
+  core-ranking: '-'
+  h5-index: '0'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: Aug 29, 2022
+  tags:
+  - computer vision
+  - ' artificial intelligence'
+  title: Winter Conference on Applications of Computer Vision (WACV)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: TBA
+  conference-location: TBA
+  core-ranking: '-'
+  h5-index: '0'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: TBA
+  tags:
+  - information retrieval
+  title: International Conference on Computational Linguistics (COLING)
+- abstract-deadline: Oct 21, 2022
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://aamas2023.soton.ac.uk/calls/call-for-papers/
+  conference-date: May 29 - Jun 2, 2023
+  conference-location: London
+  core-ranking: '-'
+  h5-index: '0'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: Oct 28, 2022
+  tags:
+  - autonomous agents
+  - ' multiagent systems'
+  title: International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: TBA
+  conference-location: TBA
+  core-ranking: '-'
+  h5-index: '0'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: TBA
+  tags:
+  - computational linguistics
+  title: Conference on Computational Natural Language Learning (CoNLL)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: TBA
+  conference-location: TBA
+  core-ranking: '-'
+  h5-index: '0'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: TBA
+  tags:
+  - uncertainty
+  - ' artificial intelligence'
+  title: Conference on Uncertainty in Artificial Intelligence (UAI)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: TBA
+  conference-location: TBA
+  core-ranking: '-'
+  h5-index: '0'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: TBA
+  tags:
+  - robotics and machine learning
+  title: Conference on Robot Learning (CoRL)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: TBA
+  conference-location: TBA
+  core-ranking: '-'
+  h5-index: '0'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: TBA
+  tags:
+  - computer vision
+  title: Asian Conference on Computer Vision (ACCV)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: TBA
+  conference-date: TBA
+  conference-location: TBA
+  core-ranking: '-'
+  h5-index: '0'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: TBA
+  tags:
+  - machine learning and data mining
+  title: European Conference on Machine learning and knowledge discovery in databases
+    (ECML PKDD)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: '-'
+  conference-date: Oct 8 - 12, 2023
+  conference-location: Vancouver, Canada
+  core-ranking: '-'
+  h5-index: '0'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: '-'
+  tags:
+  - medical imaging
+  - ' computer assisted intervention'
+  title: International Conference on Medical Image Computing and Computer Assisted
+    Intervention (MICCAI)
+- abstract-deadline: Sep 30, 2022
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://ecir2023.org/papers.html?v=1.4
+  conference-date: Apr 2 - 6, 2023
+  conference-location: Dublin, Ireland
+  core-ranking: '-'
+  h5-index: '0'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: Oct 7, 2022
+  tags:
+  - information retrieval
+  title: European Conference on Information Retrieval (ECIR)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: '-'
+  conference-date: '-'
+  conference-location: '-'
+  core-ranking: '-'
+  h5-index: '165'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: '-'
+  tags:
+  - '-'
+  title: IEEE Transactions on Pattern Analysis and Machine Intelligence (-)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: '-'
+  conference-date: '-'
+  conference-location: '-'
+  core-ranking: '-'
+  h5-index: '110'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: '-'
+  tags:
+  - '-'
+  title: Pattern Recognition (-)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: '-'
+  conference-date: '-'
+  conference-location: '-'
+  core-ranking: '-'
+  h5-index: '90'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: '-'
+  tags:
+  - '-'
+  title: Medical Image Analysis (-)
