@@ -34,23 +34,23 @@ We are located at 3160 [Torgersen Hall](https://www.vt.edu/about/locations/build
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+3160 Torgersen Hall  
+Blacksburg, VA-24060
+USA
 {:.center}
 
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/torg_bridge.jpg"
+  caption="Torgersen Bridge"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/duck_pond.jpeg"
+  caption="Duck Pond"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
