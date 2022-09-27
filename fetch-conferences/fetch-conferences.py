@@ -25,21 +25,21 @@ for idx, row in enumerate(sheets_data['table']['rows']):
     if idx == 0:
         continue
     
-    new_dict['title'] = f'{vals[2]["v"]} ({vals[1]["v"]})'
+    new_dict['title'] = f'{vals[2]["v"]} ({vals[1]["v"]})' if vals[2] is not None else '-'
     new_dict['h5-index'] = vals[3]['f'] if vals[3] is not None else 'N/A'
-    new_dict['core-ranking'] = vals[4]["v"]
-    new_dict['call-for-papers'] = vals[5]["v"]
-    new_dict['abstract-deadline'] = vals[6]['v']
-    new_dict['submission-deadline'] = vals[7]['v']
-    new_dict['rebuttal-starts'] = vals[8]['v']
-    new_dict['notification-date'] = vals[9]['v']
-    new_dict['conference-date'] = vals[10]['v']
-    new_dict['conference-location'] = vals[11]['v']
-    new_dict['tags'] = vals[12]['v'].split(',')
-    new_dict['acceptance-rate-2022'] = vals[13]['v']
-    new_dict['acceptance-rate-2021'] = vals[14]['v']
-    new_dict['acceptance-rate-2020'] = vals[15]['v']
-    new_dict['acceptance-rate-2019'] = vals[16]['v']
+    new_dict['core-ranking'] = vals[4]["v"] if vals[4] is not None else '-'
+    new_dict['call-for-papers'] = vals[5]["v"] if vals[5] is not None else '-'
+    new_dict['abstract-deadline'] = vals[6]['v'] if vals[6] is not None else '-'
+    new_dict['submission-deadline'] = vals[7]['v'] if vals[7] is not None else '-'
+    new_dict['rebuttal-starts'] = vals[8]['v'] if vals[8] is not None else '-'
+    new_dict['notification-date'] = vals[9]['v'] if vals[9] is not None else '-'
+    new_dict['conference-date'] = vals[10]['v'] if vals[10] is not None else '-'
+    new_dict['conference-location'] = vals[11]['v'] if vals[11] is not None else '-'
+    new_dict['tags'] = vals[12]['v'].split(',') if vals[12] is not None else '-'
+    new_dict['acceptance-rate-2022'] = vals[13]['v'] if vals[13] is not None else '-'
+    new_dict['acceptance-rate-2021'] = vals[14]['v'] if vals[14] is not None else '-'
+    new_dict['acceptance-rate-2020'] = vals[15]['v'] if vals[15] is not None else '-'
+    new_dict['acceptance-rate-2019'] = vals[16]['v'] if vals[16] is not None else '-'
     
     conf_list.append(new_dict)
 
