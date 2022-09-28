@@ -14,7 +14,7 @@
   tags:
   - computer vision
   title: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-- abstract-deadline: '-'
+- abstract-deadline: Sep 21, 2022
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
   acceptance-rate-2021: '-'
@@ -26,7 +26,7 @@
   h5-index: '286'
   notification-date: '-'
   rebuttal-starts: '-'
-  submission-deadline: Sep 21, 2022
+  submission-deadline: Sep 29, 2022
   tags:
   - machine learning
   title: International Conference on Learning Representations (ICLR )
@@ -207,6 +207,22 @@
   tags:
   - natural language processing
   title: North American Chapter of the Association for Computational Linguistics (NAACL)
+- abstract-deadline: 13 October 2022
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://2023.eacl.org/calls/papers/
+  conference-date: "3\u20135 May 2023"
+  conference-location: Hybrid + Croatia
+  core-ranking: A
+  h5-index: '62'
+  notification-date: 20 January 2023
+  rebuttal-starts: 6 December 2022
+  submission-deadline: "20\_October 2022"
+  tags:
+  - natural language processing
+  title: European Chapter of the Association for Computational Linguistics (EACL)
 - abstract-deadline: '-'
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
