@@ -378,8 +378,8 @@
   call-for-papers: https://wacv2023.thecvf.com/node/135
   conference-date: Jan 4 - 6, 2023
   conference-location: Waikoloa, Hawaii
-  core-ranking: '-'
-  h5-index: N/A
+  core-ranking: A
+  h5-index: '76'
   notification-date: '-'
   rebuttal-starts: '-'
   submission-deadline: Aug 29, 2022
@@ -395,8 +395,8 @@
   call-for-papers: TBA
   conference-date: TBA
   conference-location: TBA
-  core-ranking: '-'
-  h5-index: N/A
+  core-ranking: A
+  h5-index: '58'
   notification-date: '-'
   rebuttal-starts: '-'
   submission-deadline: TBA
@@ -411,8 +411,8 @@
   call-for-papers: https://aamas2023.soton.ac.uk/calls/call-for-papers/
   conference-date: May 29 - Jun 2, 2023
   conference-location: London
-  core-ranking: '-'
-  h5-index: N/A
+  core-ranking: A*
+  h5-index: '50'
   notification-date: '-'
   rebuttal-starts: '-'
   submission-deadline: Oct 28, 2022
@@ -428,8 +428,8 @@
   call-for-papers: TBA
   conference-date: TBA
   conference-location: TBA
-  core-ranking: '-'
-  h5-index: N/A
+  core-ranking: A
+  h5-index: '44'
   notification-date: '-'
   rebuttal-starts: '-'
   submission-deadline: TBA
@@ -444,8 +444,8 @@
   call-for-papers: TBA
   conference-date: TBA
   conference-location: TBA
-  core-ranking: '-'
-  h5-index: N/A
+  core-ranking: A
+  h5-index: '45'
   notification-date: '-'
   rebuttal-starts: '-'
   submission-deadline: TBA
@@ -462,7 +462,7 @@
   conference-date: TBA
   conference-location: TBA
   core-ranking: '-'
-  h5-index: N/A
+  h5-index: '64'
   notification-date: '-'
   rebuttal-starts: '-'
   submission-deadline: TBA
@@ -477,8 +477,8 @@
   call-for-papers: TBA
   conference-date: TBA
   conference-location: TBA
-  core-ranking: '-'
-  h5-index: N/A
+  core-ranking: B
+  h5-index: '46'
   notification-date: '-'
   rebuttal-starts: '-'
   submission-deadline: TBA
@@ -493,8 +493,8 @@
   call-for-papers: TBA
   conference-date: TBA
   conference-location: TBA
-  core-ranking: '-'
-  h5-index: N/A
+  core-ranking: A
+  h5-index: '40'
   notification-date: '-'
   rebuttal-starts: '-'
   submission-deadline: TBA
@@ -510,7 +510,7 @@
   call-for-papers: '-'
   conference-date: Oct 8 - 12, 2023
   conference-location: Vancouver, Canada
-  core-ranking: '-'
+  core-ranking: A
   h5-index: N/A
   notification-date: '-'
   rebuttal-starts: '-'
@@ -528,8 +528,8 @@
   call-for-papers: https://ecir2023.org/papers.html?v=1.4
   conference-date: Apr 2 - 6, 2023
   conference-location: Dublin, Ireland
-  core-ranking: '-'
-  h5-index: N/A
+  core-ranking: A
+  h5-index: '31'
   notification-date: '-'
   rebuttal-starts: '-'
   submission-deadline: Oct 7, 2022
