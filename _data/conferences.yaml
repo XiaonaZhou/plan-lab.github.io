@@ -179,6 +179,21 @@
   acceptance-rate-2020: '-'
   acceptance-rate-2021: '-'
   acceptance-rate-2022: '-'
+  call-for-papers: '-'
+  conference-date: October 1-6, 2023
+  conference-location: "Krak\xF3w, Poland"
+  core-ranking: A
+  h5-index: '23'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: late April 2023 (after IJCAI-23 notifications)
+  tags: '-'
+  title: European Conference on Artificial Intelligence (ECAI)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
   call-for-papers: TBA
   conference-date: '-'
   conference-location: '-'
@@ -511,7 +526,7 @@
   conference-date: Oct 8 - 12, 2023
   conference-location: Vancouver, Canada
   core-ranking: A
-  h5-index: N/A
+  h5-index: '78'
   notification-date: '-'
   rebuttal-starts: '-'
   submission-deadline: '-'
@@ -584,18 +599,3 @@
   tags:
   - '-'
   title: Medical Image Analysis (-)
-- abstract-deadline: '-'
-  acceptance-rate-2019: '-'
-  acceptance-rate-2020: '-'
-  acceptance-rate-2021: '-'
-  acceptance-rate-2022: '-'
-  call-for-papers: '-'
-  conference-date: October 1-6, 2023
-  conference-location: "Krak\xF3w, Poland"
-  core-ranking: A
-  h5-index: N/A
-  notification-date: '-'
-  rebuttal-starts: '-'
-  submission-deadline: late April 2023 (after IJCAI-23 notifications)
-  tags: '-'
-  title: European Conference on Artificial Intelligence (ECAI)
