@@ -6,6 +6,7 @@ role: grad-student
 aliases:
   - M. Wahed
   - M Wahed
+  - Muntasir Wahed
 links:
   home-page: www.mwahed.com
   email: mwahed@vt.edu
