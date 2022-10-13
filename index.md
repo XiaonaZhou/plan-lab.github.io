@@ -16,3 +16,57 @@ Our research lab is broadly interested in multimodal machine learning and learni
   link="PLAN-Lab"
   style="button"
 %}
+
+# Funding
+
+Our work is made possible by funding from several organizations.
+{:.center}
+
+{%
+  include gallery.html
+  style="square"
+
+  image1="images/funding/nsf.jpg"
+  link1="https://www.nsf.gov/"
+  tooltip1="National Science Foundation"
+
+  image2="images/funding/darpa.png"
+  link2="https://www.darpa.mil/"
+  tooltip2="DARPA"
+
+  image3="images/funding/cci.jpg"
+  link3="https://cyberinitiative.org/"
+  tooltip3="Commonwealth Cyber Initiative"
+
+  image4="images/funding/amazon_science.png"
+  link4="https://www.amazon.science/"
+  tooltip4="Amazon Science"
+
+%}
+
+# Affiliations
+Our lab is affiliated with several institutes.
+
+{:.center}
+
+{%
+  include gallery.html
+  style="square"
+
+  image1="images/affiliations/vt_cs.png"
+  link1="https://cs.vt.edu/"
+  tooltip1="Department of Computer Science, Virginia Tech"
+
+  image2="images/affiliations/vt_sanghani.jpg"
+  link2="https://sanghani.cs.vt.edu/"
+  tooltip2="Sanghani Center for Artificial Intelligence and Data Analytics"
+
+  image3="images/affiliations/vt_nsi.png"
+  link3="https://nationalsecurity.vt.edu/"
+  tooltip3="Virginia Tech National Security Institute"
+
+  image4="images/affiliations/vt_caia_cals.png"
+  link4="https://caia.cals.vt.edu/"
+  tooltip4="Center for Advanced Innovation in Agriculture"
+
+%}
