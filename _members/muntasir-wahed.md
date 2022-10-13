@@ -8,7 +8,7 @@ aliases:
   - M Wahed
   - Muntasir Wahed
 links:
-  home-page: https://www.mwahed.com
+  home-page: https://mwahed.com/
   email: mwahed@vt.edu
   github: immuntasir
   google-scholar: ItE5a5cAAAAJ
