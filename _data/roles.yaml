@@ -1,5 +1,5 @@
 pi:
-  icon: fas fa-person-chalkboard
+  icon: fas fa-glasses
   text: Principal Investigator
 
 postdoc:
