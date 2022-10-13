@@ -2,7 +2,7 @@
 name: Muntasir Wahed
 image: images/members/MuntasirWahed.jpeg
 description: Ph.D. Student
-role: grad-student
+role: phd-student
 aliases:
   - M. Wahed
   - M Wahed

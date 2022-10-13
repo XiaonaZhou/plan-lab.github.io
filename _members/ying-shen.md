@@ -2,7 +2,7 @@
 name: Ying Shen
 image: images/members/YingShen.jpg
 description: Ph.D. Student
-role: grad-student
+role: phd-student
 aliases:
   - Ying Shen
   - Y Shen

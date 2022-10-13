@@ -2,7 +2,7 @@
 name: Tianjiao(Joey) Yu
 image: images/members/TianjiaoYu.jpg
 description: Ph.D. Student
-role: grad-student
+role: phd-student
 aliases:
   - Tianjiao(Joey) Yu
   - T Yu

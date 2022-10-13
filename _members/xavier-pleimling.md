@@ -2,7 +2,7 @@
 name: Xavier Pleimling
 image: images/members/XavierPleimling.jpeg
 description: Ph.D. Student
-role: grad-student
+role: phd-student
 aliases:
   - Xavier Pleimling
   - X Pleimling

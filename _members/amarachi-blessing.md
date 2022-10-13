@@ -2,7 +2,7 @@
 name: Amarachi Blessing Mbakwe
 image: images/members/AmarachiMbakwe.jpeg
 description: Ph.D. Student
-role: grad-student
+role: phd-student
 aliases:
   - Amarachi Blessing
   - A Blessing

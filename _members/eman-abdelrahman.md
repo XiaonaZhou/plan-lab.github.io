@@ -2,7 +2,7 @@
 name: Eman Abdelrahman
 image: images/members/EmanAbdelrahman.jpeg
 description: Ph.D. Student
-role: grad-student
+role: phd-student
 aliases:
   - Eman Abdelrahman
   - E Abdelrahman

@@ -2,7 +2,7 @@
 name: Hulya Dogan
 image: images/members/HulyaDogan.jpg
 description: M.S. Student
-role: grad-student
+role: ms-student
 aliases:
   - Hulya Dogan
   - H Dogan

@@ -2,7 +2,7 @@
 name: Chase Vickery
 image: images/members/ChaseVickery.jpg
 description: Ph.D. Student
-role: grad-student
+role: phd-student
 aliases:
   - Chase Vickery
   - C Vickery

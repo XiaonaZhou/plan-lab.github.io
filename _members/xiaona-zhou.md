@@ -2,7 +2,7 @@
 name: Xiaona Zhou
 image: images/members/XiaonaZhou.jpg
 description: Ph.D. Student
-role: grad-student
+role: phd-student
 aliases:
   - Xiaona Zhou
   - X Zhou

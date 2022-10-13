@@ -2,7 +2,7 @@
 name: Gaurang Ajit Karwande
 image: images/members/GaurangKarwande.jpg
 description: M.S. Student
-role: grad-student
+role: ms-student
 aliases:
   - Gaurang Ajit
   - G Ajit

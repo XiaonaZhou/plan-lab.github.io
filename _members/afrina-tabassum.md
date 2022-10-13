@@ -2,7 +2,7 @@
 name: Afrina Tabassum
 image: images/members/AfrinaTabassum.jpg
 description: Ph.D. Student
-role: grad-student
+role: phd-student
 aliases:
   - Afrina Tabassum
   - A Tabassum
