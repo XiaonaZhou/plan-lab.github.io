@@ -13,25 +13,27 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 {% include section.html %}
-
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: pi"
 %}
+{% include section.html %}
 {%
   include list.html
   data="members"
   component="portrait"
   filters="description: Ph.D. Student"
 %}
+{% include section.html %}
 {%
   include list.html
   data="members"
   component="portrait"
   filters="description: M.S. Student"
 %}
+{% include section.html %}
 {%
   include list.html
   data="members"
