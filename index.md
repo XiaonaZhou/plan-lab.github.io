@@ -17,6 +17,7 @@ Our research lab is broadly interested in multimodal machine learning and learni
   style="button"
 %}
 
+<!--
 # Funding
 
 Our work is made possible by funding from several organizations.
@@ -70,3 +71,5 @@ Our lab is affiliated with several institutes.
   tooltip4="Center for Advanced Innovation in Agriculture"
 
 %}
+
+-->
