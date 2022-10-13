@@ -1,5 +1,5 @@
 pi:
-  icon: fas fa-microscope
+  icon: fas fa-person-chalkboard
   text: Principal Investigator
 
 postdoc:
