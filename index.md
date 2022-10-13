@@ -4,7 +4,7 @@ title: Home
 
 # Our Mission
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus elementum sagittis vitae et leo duis ut. Nunc sed blandit libero volutpat sed cras ornare. Morbi enim nunc faucibus a. Non tellus orci ac auctor augue mauris augue neque gravida. Platea dictumst vestibulum rhoncus est pellentesque elit. Amet est placerat in egestas erat imperdiet sed. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae.
+Our research lab is broadly interested in multimodal machine learning and learning with limited supervision. We are particularly interested in building intelligent task assistants that can fuse linguistic, visual, and other types of modalities to perceive and interact with the world. Current language + vision projects involve multimodal representation learning, contrastive self-supervision, embodied AI, video localization and multi-agent communication. Applications include healthcare, medical imaging, manufacturing and misinformation detection.
 
 {:.center}
 
