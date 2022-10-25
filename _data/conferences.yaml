@@ -406,7 +406,7 @@
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
   acceptance-rate-2021: '-'
-  acceptance-rate-2022: '-'
+  acceptance-rate-2022: 'Submission: May'
   call-for-papers: TBA
   conference-date: TBA
   conference-location: TBA
@@ -439,7 +439,7 @@
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
   acceptance-rate-2021: '-'
-  acceptance-rate-2022: '-'
+  acceptance-rate-2022: 'Submission: June'
   call-for-papers: TBA
   conference-date: TBA
   conference-location: TBA
@@ -455,7 +455,7 @@
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
   acceptance-rate-2021: '-'
-  acceptance-rate-2022: '-'
+  acceptance-rate-2022: 'Submission: Feb'
   call-for-papers: TBA
   conference-date: TBA
   conference-location: TBA
@@ -472,7 +472,7 @@
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
   acceptance-rate-2021: '-'
-  acceptance-rate-2022: '-'
+  acceptance-rate-2022: 'Submission: June'
   call-for-papers: TBA
   conference-date: TBA
   conference-location: TBA
@@ -488,7 +488,7 @@
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
   acceptance-rate-2021: '-'
-  acceptance-rate-2022: '-'
+  acceptance-rate-2022: 'Submission: July'
   call-for-papers: TBA
   conference-date: TBA
   conference-location: TBA
@@ -500,17 +500,17 @@
   tags:
   - computer vision
   title: Asian Conference on Computer Vision (ACCV)
-- abstract-deadline: '-'
+- abstract-deadline: TBA
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
   acceptance-rate-2021: '-'
-  acceptance-rate-2022: '-'
-  call-for-papers: TBA
-  conference-date: TBA
-  conference-location: TBA
+  acceptance-rate-2022: 'Abstract: March'
+  call-for-papers: https://2023.ecmlpkdd.org/submissions/
+  conference-date: September 18 -22 2023
+  conference-location: Turin, Italy
   core-ranking: A
   h5-index: '40'
-  notification-date: '-'
+  notification-date: TBA
   rebuttal-starts: '-'
   submission-deadline: TBA
   tags:
@@ -521,7 +521,7 @@
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
   acceptance-rate-2021: '-'
-  acceptance-rate-2022: '-'
+  acceptance-rate-2022: 'Submission: February'
   call-for-papers: '-'
   conference-date: Oct 8 - 12, 2023
   conference-location: Vancouver, Canada
@@ -551,6 +551,22 @@
   tags:
   - information retrieval
   title: European Conference on Information Retrieval (ECIR)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://www.jair.org/index.php/jair/about/submissions
+  conference-date: '-'
+  conference-location: '-'
+  core-ranking: '-'
+  h5-index: '123'
+  notification-date: '-'
+  rebuttal-starts: '-'
+  submission-deadline: '-'
+  tags:
+  - '-'
+  title: Journal of Artificial Intelligence Research (JAIR)
 - abstract-deadline: '-'
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
