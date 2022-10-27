@@ -30,6 +30,8 @@ Our research lab is broadly interested in multimodal machine learning and learni
 - **April, 2022:** Thrilled to join the [NeurIPS 2022 Organizing Commitee](https://nips.cc/Conferences/2022/Committees) as an Expo co-Chair!
 - **March, 2022:** Gave a talk at the [Women in STEM Mentoring Seminars](https://www.w-stem.org/home). Slides are available [here](https://www.w-stem.org/resources). 
 - **February, 2022:** We are grateful to receive an [NSF EAGER CMMI-AM](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2208864&HistoricalAwards=false) grant!
+
+
 <!--
 # Funding
 
