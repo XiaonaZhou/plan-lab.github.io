@@ -19,7 +19,8 @@
   publisher: Scientific Data
   date: '2021-03-25'
   link: https://doi.org/gqt86z
-  _cache: af05ac0a1651cc9cdf407412a33c4ffbe34c8c11fd48162fbc568b67fda89886
+  image: images/publications/chest_xray_dataset.PNG
+  _cache: 0b955d427da38aa7d5ba06a6bf97b468dcb2e0df0067e1ed80ee3b2841d19fc8
 - id: doi:10.1145/3404835.3462959
   title: 'DeepQAMVS: Query-Aware Hierarchical Pointer Networks for Multi-Video Summarization'
   authors:
