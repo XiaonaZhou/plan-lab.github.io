@@ -20,7 +20,10 @@
   date: '2021-03-25'
   link: https://doi.org/gqt86z
   image: images/publications/chest_xray_dataset.PNG
-  _cache: 0b955d427da38aa7d5ba06a6bf97b468dcb2e0df0067e1ed80ee3b2841d19fc8
+  tags:
+  - eye tracking device
+  - chest radiography
+  _cache: fe3a205d19600730d1dfc25b8d77cf82ae6d8237fcbf571e56c56348abb41980
 - id: doi:10.1145/3404835.3462959
   title: 'DeepQAMVS: Query-Aware Hierarchical Pointer Networks for Multi-Video Summarization'
   authors:
@@ -35,7 +38,9 @@
     and Development in Information Retrieval
   date: '2021-07-11'
   link: https://doi.org/gqt862
-  _cache: 71e310ce64a6d682631f828029ec27e3fd729608ed44853ae7c0241d6604174e
+  image: images/publications/DeepQAMVS.PNG
+  tags: null
+  _cache: d264fde9946ae7d0663091d0b2a83428a781d89bb8aa6347c80f275cea3dcbcb
 - id: doi:10.1007/978-3-030-87240-3_77
   title: 'AnaXNet: Anatomy Aware Multi-label Finding Classification in Chest X-Ray'
   authors:
@@ -51,7 +56,9 @@
     \ 2021"
   date: '2021-01-01'
   link: https://doi.org/gqt863
-  _cache: ceb770b27074d0a41de306d7c9e638053acbb87ca396c9b6bfcee0aa00f8473c
+  image: images/publications/anaxnet.PNG
+  tags: null
+  _cache: da1f198eff5fe9277b9500849e43328de7cbba213dd310ee8cf2b8dbcc385c37
 - id: doi:10.1145/3459637.3481950
   title: SAUCE
   authors:
@@ -67,7 +74,10 @@
     Knowledge Management
   date: '2021-10-26'
   link: https://doi.org/gqt864
-  _cache: b8c211fa0b889ead5d029f1e79ca5ca14d16e11c4791f1d42f9cb8d66a6041e7
+  image: images/publications/sauce.PNG
+  tags:
+  - information retrieval
+  _cache: de4475b631d4b6db34cadb4bee1bd5024a701efa18dfa7f3d60fd93034376775
 - id: doi:10.1111/mice.12812
   title: Toward a general unsupervised novelty detection framework in structural health
     monitoring
@@ -80,7 +90,8 @@
   publisher: Computer-Aided Civil and Infrastructure Engineering
   date: '2022-01-21'
   link: https://doi.org/gp5xhh
-  _cache: 41f88019faec2f8b9b4322d3f4a3dfc26084937e95a32001a079de2deeda6552
+  tags: null
+  _cache: 805b4a283fc94cd449e707859f3cc3258075d3c21fd7c130849ef55b775aea85
 - id: doi:10.48550/arXiv.2108.00316
   title: Chest ImaGenome Dataset for Clinical Reasoning
   authors:
@@ -99,7 +110,9 @@
   publisher: arXiv
   date: '2021-01-01'
   link: https://doi.org/gqt865
-  _cache: 311d7285396af50f7ac482940e0a5358d49683e5f0e627e5938aaf0213ced785
+  image: images/publications/chest_imagenome.PNG
+  tags: null
+  _cache: 00c1deedd861a5f42fe14f87777622ccf810270d52fbec122dc97afd77aee4ae
 - id: doi:10.48550/arXiv.2204.10314
   title: Adversarial Contrastive Learning by Permuting Cluster Assignments
   authors:
@@ -109,7 +122,13 @@
   publisher: arXiv
   date: '2022-01-01'
   link: https://doi.org/gqt866
-  _cache: 25ce1386e16bae098d23d6a545bc20f1356ace7d53970ebc7639f00c6bea7b3c
+  image: images/publications/swaro.PNG
+  tags:
+  - contrastive learning
+  - self-supervised learning
+  - adversarial attacks
+  - robust ML
+  _cache: 2f200f2e469265fe2ab3d95f2caf17b428b2ac2da4605fd98974e32a6bce5c34
 - id: doi:10.48550/arXiv.2206.01197
   title: Hard Negative Sampling Strategies for Contrastive Representation Learning
   authors:
@@ -120,10 +139,13 @@
   publisher: arXiv
   date: '2022-01-01'
   link: https://doi.org/gqt867
-  _cache: c0a3603a88f941954a5dcff38481a0e7c917242c642c052ebaa1ce9edb70a332
+  image: images/publications/hard_negative.PNG
+  tags:
+  - contrastive learning
+  - self-supervised learning
+  _cache: 8171d07c5251f05bf75d67fb387e813c754b0c276558c105a51815a91633ca9b
 - id: doi:10.48550/arXiv.2206.07796
-  title: 'FixEval: Execution-based Evaluation of Program Fixes for Competitive Programming
-    Problems'
+  title: 'FixEval: Execution-based Evaluation of Program Fixes for Programming Problems'
   authors:
   - Md Mahim Anjum Haque
   - Wasi Uddin Ahmad
@@ -132,7 +154,9 @@
   publisher: arXiv
   date: '2022-01-01'
   link: https://doi.org/gqt868
-  _cache: eb092b7b2dfa2085f042b41951ca2cd8c8e197063c9c6af4f6e9bff6a03e9b49
+  image: images/publications/fixeval.PNG
+  tags: null
+  _cache: 6b0389315c6f3dcdaa6a00c69d4844b25d618ebcfb186243ffee7c703fbd758a
 - id: doi:10.1145/3529190.3529222
   title: '[Data] Quality Lies In The Eyes Of The Beholder'
   authors:
@@ -143,7 +167,9 @@
     Assistive Environments
   date: '2022-06-29'
   link: https://doi.org/gqt869
-  _cache: 047c35c16d4ab9b9399b85aa4a48bb078adfc318562230125af3993dc2a2b8d6
+  image: images/publications/data_quality.PNG
+  tags: null
+  _cache: 81cad94a39914734c1c9a014a4e7656349a3502691f700f27168715d01639760
 - id: doi:10.48550/arXiv.2208.03873
   title: 'CheXRelNet: An Anatomy-Aware Model for Tracking Longitudinal Relationships
     between Chest X-Rays'
@@ -157,4 +183,6 @@
   publisher: arXiv
   date: '2022-01-01'
   link: https://doi.org/gqt87b
-  _cache: 3971d0201438ac1b65048c973c302d14bd6a7d3022870fc312bd35dfe74768cb
+  image: images/publications/CheXRelNet.PNG
+  tags: null
+  _cache: 0b2d325eb0679ce1ae3eb4a0291c907a369e63bc8cc28a58633c00e36719cbb6
