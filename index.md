@@ -19,7 +19,7 @@ Our research lab is broadly interested in multimodal machine learning and learni
 
 {% include section.html %}
 # News
-- **Oct, 2022:** Congratulations to Muntasir Wahed and Avi Seth for getting their paper accepted at IEEE International Conference on Big Data.
+- **Oct, 2022:** Congratulations to [Muntasir Wahed](members/muntasir-wahed.html) and Avi Seth for getting their paper accepted at IEEE International Conference on Big Data.
 - **Oct, 2022:** Excited to receive an [Amazon-VT faculty research award](https://www.amazon.science/latest-news/amazon-and-virginia-tech-announce-inaugural-fellowship-and-faculty-research-award-recipients) to work on Embodied AI research!
 - **Oct, 2022:** Attending [INFORMS'22](https://meetings.informs.org/wordpress/indianapolis2022/) and presenting our privacy-preserving data sharing work.
 - **Oct, 2022:** Will be giving a talk on self-supervised machine learning at the [VT Statistics Colloquium](https://www.stat.vt.edu/about/colloquium-schedule.html). 
