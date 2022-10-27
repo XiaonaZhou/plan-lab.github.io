@@ -1,12 +1,41 @@
 - id: doi:10.1038/s41597-021-00863-5
   image: images/publications/chest_xray_dataset.PNG
+  tags:
+    - eye tracking device
+    - chest radiography
 - id: doi:10.1145/3404835.3462959
+  image: images/publications/DeepQAMVS.PNG
+  tags:
 - id: doi:10.1007/978-3-030-87240-3_77
+  image: images/publications/anaxnet.PNG
+  tags:
 - id: doi:10.1145/3459637.3481950
+  image: images/publications/sauce.PNG
+  tags:
+    - information retrieval
 - id: doi:10.1111/mice.12812
+  tags:
 - id: doi:10.48550/arXiv.2108.00316
+  image: images/publications/chest_imagenome.PNG
+  tags:
 - id: doi:10.48550/arXiv.2204.10314
+  image: images/publications/swaro.PNG
+  tags:
+    - contrastive learning
+    - self-supervised learning
+    - adversarial attacks
+    - robust ML
 - id: doi:10.48550/arXiv.2206.01197
+  image: images/publications/hard_negative.PNG
+  tags:
+    - contrastive learning
+    - self-supervised learning
 - id: doi:10.48550/arXiv.2206.07796
+  image: images/publications/fixeval.PNG
+  tags:
 - id: doi:10.1145/3529190.3529222
+  image: images/publications/data_quality.PNG
+  tags:
 - id: doi:10.48550/arXiv.2208.03873
+  image: images/publications/CheXRelNet.PNG
+  tags:
