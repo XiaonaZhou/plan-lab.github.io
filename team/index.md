@@ -39,5 +39,12 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 {:.center}
 
-
-
+{% include section.html %}
+# Alumni
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="description: Alumni"
+%}
+{:.center}
