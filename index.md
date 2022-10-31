@@ -17,7 +17,7 @@ Our research lab is broadly interested in multimodal machine learning and learni
   style="button"
 %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/members/lab_picture.jpg" %}
 
 {% include section.html %}
 # News
