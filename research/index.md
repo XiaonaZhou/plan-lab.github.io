@@ -1,8 +1,8 @@
 ---
 title: Research
-nav:
-  order: 1
-  tooltip: Research Projects
+#nav:
+#  order: 1
+#  tooltip: Research Projects
 ---
 
 # Research Projects
