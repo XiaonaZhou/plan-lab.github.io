@@ -1,6 +1,6 @@
 ---
 name: Sikiru Adewale 
-image: 
+image: images/members/SikiruAdewale.jpg.PNG
 description: Ph.D. Student
 role: phd-student
 aliases:

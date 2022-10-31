@@ -17,6 +17,8 @@ Our research lab is broadly interested in multimodal machine learning and learni
   style="button"
 %}
 
+{% include banner.html image="images/banner.jpg" %}
+
 {% include section.html %}
 # News
 - **Oct, 2022:** Congratulations to [Muntasir Wahed](members/muntasir-wahed.html) and Avi Seth for getting their paper accepted at IEEE International Conference on Big Data.
