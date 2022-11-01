@@ -24,7 +24,7 @@ Our research lab is broadly interested in multimodal machine learning and learni
 - **Oct, 2022:** Congratulations to [Muntasir Wahed](members/muntasir-wahed.html) and Avi Seth for getting their paper accepted at IEEE International Conference on Big Data.
 - **Oct, 2022:** Our lab has received an [Amazon-VT faculty research award](https://www.amazon.science/latest-news/amazon-and-virginia-tech-announce-inaugural-fellowship-and-faculty-research-award-recipients) to work on Embodied AI research!
 - **August, 2022:** Our lab has received DARPA KMASS funding!
-- **July, 2022:** Our lab has received Commonwealth Cyber Initiative (CCI) funding on ML-based automated code repair!
+- **July, 2022:** Our lab has received Commonwealth Cyber Initiative (CCI) funding on ML-based code repair!
 - **February, 2022:** Our lab has received [NSF EAGER CMMI-AM](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2208864&HistoricalAwards=false) funding!
 
 
