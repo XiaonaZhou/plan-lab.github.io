@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Computer Science](https://cs.vt.edu/) and the [Sanghani Center for Artificial Intelligence and Data Analytics](https://sanghani.cs.vt.edu/) at [Virginia Tech](https://vt.edu/).
+Our lab is part of the [Department of Computer Science](https://cs.vt.edu/) and the [Sanghani Center for AI and Data Analytics](https://sanghani.cs.vt.edu/) at [Virginia Tech](https://vt.edu/).
 We are located at 3160 [Torgersen Hall](https://www.vt.edu/about/locations/buildings/torgersen-hall.html).
 
 {%
