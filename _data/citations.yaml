@@ -82,8 +82,7 @@
   image: images/publications/sauce.PNG
   tags:
   - information retrieval
-  - fast retrieval
-  _cache: bd31bf890970b98be0b375b3f1753040f33d80c363b343a486e1a93b24677cd8
+  _cache: de4475b631d4b6db34cadb4bee1bd5024a701efa18dfa7f3d60fd93034376775
 - id: doi:10.1111/mice.12812
   title: Toward a general unsupervised novelty detection framework in structural health
     monitoring
