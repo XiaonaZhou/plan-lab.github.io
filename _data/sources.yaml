@@ -6,18 +6,26 @@
 - id: doi:10.1145/3404835.3462959
   image: images/publications/DeepQAMVS.PNG
   tags:
+    - video summarization
+    - multimodal learning
+    - video understanding
 - id: doi:10.1007/978-3-030-87240-3_77
   image: images/publications/anaxnet.PNG
   tags:
+    - scene-graphs
+    - medical imaging
 - id: doi:10.1145/3459637.3481950
   image: images/publications/sauce.PNG
   tags:
     - information retrieval
+    - fast retrieval
 - id: doi:10.1111/mice.12812
   tags:
 - id: doi:10.48550/arXiv.2108.00316
   image: images/publications/chest_imagenome.PNG
   tags:
+    - scene-graphs
+    - medical imaging
 - id: doi:10.48550/arXiv.2204.10314
   image: images/publications/swaro.PNG
   tags:
@@ -33,9 +41,13 @@
 - id: doi:10.48550/arXiv.2206.07796
   image: images/publications/fixeval.PNG
   tags:
+    - code repair
 - id: doi:10.1145/3529190.3529222
   image: images/publications/data_quality.PNG
   tags:
+    - data quality
 - id: doi:10.48550/arXiv.2208.03873
   image: images/publications/CheXRelNet.PNG
   tags:
+    - scene-graphs
+    - medical imaging
