@@ -21,8 +21,8 @@
   link: https://doi.org/gqt86z
   image: images/publications/chest_xray_dataset.PNG
   tags:
-  - eye tracking device
-  - chest radiography
+  - eye tracking
+  - medical imaging
   _cache: fe3a205d19600730d1dfc25b8d77cf82ae6d8237fcbf571e56c56348abb41980
 - id: doi:10.1145/3404835.3462959
   title: 'DeepQAMVS: Query-Aware Hierarchical Pointer Networks for Multi-Video Summarization'
@@ -39,7 +39,10 @@
   date: '2021-07-11'
   link: https://doi.org/gqt862
   image: images/publications/DeepQAMVS.PNG
-  tags: null
+  tags:
+  - video summarization
+  - multimodal learning
+  - video understanding
   _cache: d264fde9946ae7d0663091d0b2a83428a781d89bb8aa6347c80f275cea3dcbcb
 - id: doi:10.1007/978-3-030-87240-3_77
   title: 'AnaXNet: Anatomy Aware Multi-label Finding Classification in Chest X-Ray'
@@ -57,7 +60,8 @@
   date: '2021-01-01'
   link: https://doi.org/gqt863
   image: images/publications/anaxnet.PNG
-  tags: null
+  - scene-graphs
+  - medical imaging
   _cache: da1f198eff5fe9277b9500849e43328de7cbba213dd310ee8cf2b8dbcc385c37
 - id: doi:10.1145/3459637.3481950
   title: SAUCE
@@ -77,6 +81,7 @@
   image: images/publications/sauce.PNG
   tags:
   - information retrieval
+  - fast retrieval
   _cache: de4475b631d4b6db34cadb4bee1bd5024a701efa18dfa7f3d60fd93034376775
 - id: doi:10.1111/mice.12812
   title: Toward a general unsupervised novelty detection framework in structural health
@@ -111,7 +116,9 @@
   date: '2021-01-01'
   link: https://doi.org/gqt865
   image: images/publications/chest_imagenome.PNG
-  tags: null
+  tags: 
+  - scene-graphs
+  - medical imaging
   _cache: 00c1deedd861a5f42fe14f87777622ccf810270d52fbec122dc97afd77aee4ae
 - id: doi:10.48550/arXiv.2204.10314
   title: Adversarial Contrastive Learning by Permuting Cluster Assignments
@@ -155,7 +162,8 @@
   date: '2022-01-01'
   link: https://doi.org/gqt868
   image: images/publications/fixeval.PNG
-  tags: null
+  tags: 
+  - code repair
   _cache: 6b0389315c6f3dcdaa6a00c69d4844b25d618ebcfb186243ffee7c703fbd758a
 - id: doi:10.1145/3529190.3529222
   title: '[Data] Quality Lies In The Eyes Of The Beholder'
@@ -168,7 +176,8 @@
   date: '2022-06-29'
   link: https://doi.org/gqt869
   image: images/publications/data_quality.PNG
-  tags: null
+  tags: 
+  - data quality
   _cache: 81cad94a39914734c1c9a014a4e7656349a3502691f700f27168715d01639760
 - id: doi:10.48550/arXiv.2208.03873
   title: 'CheXRelNet: An Anatomy-Aware Model for Tracking Longitudinal Relationships
@@ -184,5 +193,7 @@
   date: '2022-01-01'
   link: https://doi.org/gqt87b
   image: images/publications/CheXRelNet.PNG
-  tags: null
+  tags: 
+  - scene-graphs
+  - medical imaging
   _cache: 0b2d325eb0679ce1ae3eb4a0291c907a369e63bc8cc28a58633c00e36719cbb6
