@@ -14,4 +14,4 @@ links:
   google-scholar: R0qw1zAAAAAJ
 ---
 
-A Civil Engineer who is interested in AI
+A Civil Engineer who is interested in AI. Completed M.S. thesis on AI-based unsupervised structural health monitoring (SHM).
