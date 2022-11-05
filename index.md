@@ -33,7 +33,7 @@ Our research lab is broadly interested in multimodal machine learning and learni
 - **February, 2022:** Our lab has received [NSF EAGER CMMI-AM](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2208864&HistoricalAwards=false) funding!
 
 
-<-- 
+<!--
 # Funding
 
 Our work is made possible by funding from several organizations.
