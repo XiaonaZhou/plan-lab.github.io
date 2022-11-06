@@ -39,8 +39,11 @@
   date: '2021-07-11'
   link: https://doi.org/gqt862
   image: images/publications/DeepQAMVS.PNG
-  tags: null
-  _cache: d264fde9946ae7d0663091d0b2a83428a781d89bb8aa6347c80f275cea3dcbcb
+  tags:
+  - video summarization
+  - multimodal learning
+  - video understanding
+  _cache: 313b370818b0af055bb5c0cb8dbf973a061f02e291586ce75eecb3647c0bfc41
 - id: doi:10.1007/978-3-030-87240-3_77
   title: 'AnaXNet: Anatomy Aware Multi-label Finding Classification in Chest X-Ray'
   authors:
@@ -57,8 +60,10 @@
   date: '2021-01-01'
   link: https://doi.org/gqt863
   image: images/publications/anaxnet.PNG
-  tags: null
-  _cache: da1f198eff5fe9277b9500849e43328de7cbba213dd310ee8cf2b8dbcc385c37
+  tags:
+  - scene-graphs
+  - medical imaging
+  _cache: c61787c531f419f1056c9937f4c29dc4bc214f8c01fea5a8dfbdc3487866f122
 - id: doi:10.1145/3459637.3481950
   title: SAUCE
   authors:
@@ -111,8 +116,10 @@
   date: '2021-01-01'
   link: https://doi.org/gqt865
   image: images/publications/chest_imagenome.PNG
-  tags: null
-  _cache: 00c1deedd861a5f42fe14f87777622ccf810270d52fbec122dc97afd77aee4ae
+  tags:
+  - scene-graphs
+  - medical imaging
+  _cache: 7e93e0da85eb6dbd7c2307f46f4cf3b8e861a03a9a9907f33f76b8704ae08c11
 - id: doi:10.48550/arXiv.2204.10314
   title: Adversarial Contrastive Learning by Permuting Cluster Assignments
   authors:
@@ -155,8 +162,9 @@
   date: '2022-01-01'
   link: https://doi.org/gqt868
   image: images/publications/fixeval.PNG
-  tags: null
-  _cache: 6b0389315c6f3dcdaa6a00c69d4844b25d618ebcfb186243ffee7c703fbd758a
+  tags:
+  - code repair
+  _cache: c1d06f982d538110ef443ad3edde1ed5cbdac47c998a6bb6531b6663c4c663f7
 - id: doi:10.1145/3529190.3529222
   title: '[Data] Quality Lies In The Eyes Of The Beholder'
   authors:
@@ -168,8 +176,9 @@
   date: '2022-06-29'
   link: https://doi.org/gqt869
   image: images/publications/data_quality.PNG
-  tags: null
-  _cache: 81cad94a39914734c1c9a014a4e7656349a3502691f700f27168715d01639760
+  tags:
+  - data quality
+  _cache: ea7371c65df83ffa4e5f319cb5dc32671fd135e7d217c99554e14e9185c4233b
 - id: doi:10.48550/arXiv.2208.03873
   title: 'CheXRelNet: An Anatomy-Aware Model for Tracking Longitudinal Relationships
     between Chest X-Rays'
@@ -184,5 +193,7 @@
   date: '2022-01-01'
   link: https://doi.org/gqt87b
   image: images/publications/CheXRelNet.PNG
-  tags: null
-  _cache: 0b2d325eb0679ce1ae3eb4a0291c907a369e63bc8cc28a58633c00e36719cbb6
+  tags:
+  - scene-graphs
+  - medical imaging
+  _cache: 500cd09e003159483cedd3c64fe2fd1d046b1a9deb20a04e8c6cc8ce9a756052

@@ -15,6 +15,6 @@ links:
 ---
 
 I am a second year PhD student at Virginia Tech.
-I believe my fellow human beings are infinitely valuable, which is why I chose computer science because I can leverage my skills to bring joy to people. For example: If there is a tedious task that requires human effort that could be done more efficiently, I would love to work on those problems. Time flies when I am solving math or Computer science problems.
-My Research Interests are- Embodied Artificial Intelligence, Applied Computer Vision.
-Experience- I have worked 3 years as a web-developer as an undergraduate (prior to coming to VT) and currently I work as a Graduate Teaching Assistant for the computer science department at VT.
+I believe my fellow human beings are infinitely valuable, which is why I chose computer science because I can leverage my skills to bring joy to people. For example, if there is a tedious task that requires human effort that could be done more efficiently, I would love to work on those problems. Time flies when I am solving math or computer science problems.
+My research interests are Embodied Artificial Intelligence, Applied Computer Vision.
+I have worked 3 years as a web-developer as an undergraduate (prior to coming to VT) and currently I work as a Graduate Teaching Assistant for the computer science department at VT.
