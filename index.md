@@ -78,6 +78,7 @@ Our research lab is broadly interested in multimodal machine learning and learni
 
 %}
 -->
+{% include section.html %}
 # Funding
 
 Our work is made possible by funding from several organizations.
