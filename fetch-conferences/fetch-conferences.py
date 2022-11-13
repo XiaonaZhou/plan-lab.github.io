@@ -25,7 +25,15 @@ for idx, row in enumerate(sheets_data['table']['rows']):
     if idx == 0:
         continue
     
-    new_dict['title'] = f'{vals[2]["v"]} ({vals[1]["v"]})' if vals[2] is not None else '-'
+    if vals[1] is None:
+        new_dict['title'] = f'{vals[2]["v"]}'
+        if vals[2] is None:
+            new_dict['title'] = None
+    else:
+        if vals[2] is None:
+            new_dict['title'] = f'{vals[1]["v"]}'
+        else:
+            new_dict['title'] = f'{vals[2]["v"]} ({vals[1]["v"]})'
     new_dict['h5-index'] = vals[3]['f'] if vals[3] is not None else 'N/A'
     new_dict['core-ranking'] = vals[4]["v"] if vals[4] is not None else '-'
     new_dict['call-for-papers'] = vals[5]["v"] if vals[5] is not None else '-'
