@@ -27,10 +27,15 @@ body {
     box-sizing: content-box;
     padding: 60px 40px; // fallback
     padding: 60px Max(40px, calc((100% - #{$page}) / 2));
-    text-align: center;
 
     &[data-full="true"] {
-      padding: 0;
+      padding: 60px 40px;
+      width: calc(100% - 80px);
+      ul{
+        margin: auto;
+        width: max-content;
+        align-self: center;
+      }
     }
   }
 

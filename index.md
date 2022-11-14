@@ -19,7 +19,7 @@ Our research lab is broadly interested in multimodal machine learning and learni
 
 {% include banner.html image="images/members/lab_picture.jpg" %}
 
-{% include section.html %}
+{% include section.html full=true %}
 # News
 - **Oct, 2022:** Congratulations to [Amarachi](members/amarachi-blessing.html) and [Ying](members/ying-shen.html) for being nominated by the department for the TwoSigma Ph.D. Fellowship!
 - **Oct, 2022:** Congratulations to [Ying](members/ying-shen.html) and [Amarachi](members/amarachi-blessing.html) for being nominated by the department for the Google Ph.D. Fellowship!
