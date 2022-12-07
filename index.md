@@ -21,6 +21,7 @@ Our research lab is broadly interested in multimodal machine learning and learni
 
 {% include section.html full=true %}
 # News
+- **Nov, 2022:** Congratulations to [Makanjuola](members/makanjuola-ogunleye.html) for receiving a 2022 Cadence Diversity in Technology Scholarship!
 - **Nov, 2022:** Congratulations to [Muntasir](members/muntasir-wahed.html) for receiving a VT Pratt Fellowship for the Spring 2023 semester!
 - **Oct, 2022:** Congratulations to [Amarachi](members/amarachi-blessing.html) and [Ying](members/ying-shen.html) for being nominated by the department for the TwoSigma Ph.D. Fellowship!
 - **Oct, 2022:** Congratulations to [Ying](members/ying-shen.html) and [Amarachi](members/amarachi-blessing.html) for being nominated by the department for the Google Ph.D. Fellowship!
