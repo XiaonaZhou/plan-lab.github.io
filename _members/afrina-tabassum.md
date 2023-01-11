@@ -1,7 +1,7 @@
 ---
 name: Afrina Tabassum
 image: images/members/AfrinaTabassum.jpg
-description: Ph.D. Student
+description: Ph.D. Student (co-advised with Hoda Eldardiry)
 role: phd-student
 aliases:
   - Afrina Tabassum
