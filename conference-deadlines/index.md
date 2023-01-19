@@ -6,9 +6,16 @@ nav:
   tooltip: Conference deadlines
 ---
 
-{% include search-box.html %}
+{% include search-box.html other="sort_button" %}
 
 {% include search-info.html %}
 
-{% include list.html data="conferences" component="card" style="rich" %}
+# Upcoming conferences
+{% include list.html data="conferences" component="card" style="rich" div_id="upcoming_conferences"%}
+
+# Deadlines passed
+{% include list.html data = "conferences_passed" component="card" style="rich" div_id="past_conferences"%}
+
+# Data Not Available
+{% include list.html data = "conferences_na" component="card" style="rich" div_id="past_conferences"%}
 

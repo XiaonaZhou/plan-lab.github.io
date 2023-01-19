@@ -1,3 +1,6 @@
+{%- if include.div_id -%}
+<div id="{{include.div_id}}">
+{%- endif -%}
 {%- assign emptyarray = "" | split: "," -%}
 
 {%- assign data = site.data[include.data] | default: site[include.data] | default: emptyarray -%}
@@ -88,3 +91,5 @@
 {%- endfor -%}
 
 {%- endfor -%}
+
+</div>

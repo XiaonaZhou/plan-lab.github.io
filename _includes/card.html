@@ -1,7 +1,7 @@
 {%- if include.style == "small" -%}
   {%- assign width = 200 -%}
 {%- else -%}
-  {%- assign width = 350 -%}
+  {%- assign width = 900 -%}
 {%- endif -%}
 
 {%- assign placeholder = "images/placeholder_paper.webp" | relative_url -%}
@@ -12,7 +12,9 @@
   {%- assign tag = "span" -%}
 {%- endif -%}
 
-{::nomarkdown}
+<!-- {::nomarkdown} -->
+
+
 <span class="card" style="--width: {{ width }}px">
   {%- if include.image -%}
     <{{ tag }} href="{{ include.link | relative_url }}" class="card_image">
@@ -31,7 +33,10 @@
     </{{ tag }}>
   {%- endif -%}
 
-  <span class="card_info">
+  <span class="card_info" 
+  data-sd="{{ include.submission-deadline }}" 
+  data-ad="{{ include.abstract-deadline }}"
+  data-cd="{{ include.conference-date }}">
     {%- if include.abstract-deadline -%}
       Abstract deadline: {{ include.abstract-deadline }}
     {%- endif -%}
@@ -59,4 +64,4 @@
   {%- endif -%}
 
 </span>
-{:/}
+<!-- {:/} -->

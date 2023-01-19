@@ -185,6 +185,69 @@ const onSearchClear = () => {
   debounce(updateUrl, 100, "urlDebounce");
 };
 
+const submission_deadline_comparator = (a, b) => {
+
+  a = Date.parse(a.querySelector('.card_info').getAttribute('data-sd'))
+  b = Date.parse(b.querySelector('.card_info').getAttribute('data-sd')) 
+  today = new Date()
+  
+  if (isNaN(a) || a < today){
+    a = Infinity
+  }
+  if (isNaN(b) || b < today){
+    b = Infinity
+  }
+
+  if (a > b){
+    return 1
+  }
+  else{
+    return -1
+  }
+
+}
+
+const abstract_deadline_comparator = (a, b) => {
+
+  a = Date.parse(a.querySelector('.card_info').getAttribute('data-ad'))
+  b = Date.parse(b.querySelector('.card_info').getAttribute('data-ad')) 
+  today = new Date()
+
+  if (isNaN(a) || a < today){
+    a = Infinity
+  }
+  if (isNaN(b) || b < today){
+    b = Infinity
+  }
+
+  if (a > b){
+    return 1
+  }
+  else{
+    return -1
+  }
+}
+
+const onSortChange = (target) => {
+  let components = document.querySelectorAll("#upcoming_conferences .card");
+  components = Array.prototype.slice.call(components);
+  
+  if (target.value == '0'){
+    sorted = components.sort(submission_deadline_comparator);
+  }
+  else if (target.value == '1'){
+    sorted = components.sort(abstract_deadline_comparator);
+  }
+  else if (target.value == '2'){
+    sorted = components.sort(conference_date_comparator);
+  }
+  else{
+    sorted = components
+  }
+  sorted.forEach(e =>
+    document.querySelector("#upcoming_conferences").appendChild(e));
+}
+
 // start script and add triggers
 window.addEventListener("load", searchFromUrl);
 window.addEventListener("tagsfetched", searchFromUrl);
