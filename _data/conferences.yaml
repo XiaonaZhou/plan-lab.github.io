@@ -1,21 +1,3 @@
-- abstract-deadline: Jan 24, 2023
-  acceptance-rate-2019: '-'
-  acceptance-rate-2020: '-'
-  acceptance-rate-2021: '-'
-  acceptance-rate-2022: '-'
-  call-for-papers: https://sigir.org/sigir2023/submit/call-for-full-papers/
-  conference-date: July 23-27, 2023
-  conference-location: Taipei, Taiwan
-  core-ranking: A*
-  h5-index: '75'
-  notification-date: Date(2023,3,4)
-  rebuttal-starts: '-'
-  sd-for-sorting: 2023-01-31 00:00:00
-  submission-deadline: Jan 31 2023
-  tags:
-  - infromation retrieval
-  title: International ACM SIGIR Conference on Research and Development in Information
-    Retrieval (SIGIR)
 - abstract-deadline: '-'
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
