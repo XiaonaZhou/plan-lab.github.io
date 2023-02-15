@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Our Mission
+# Perception and LANguage (PLAN) Group
 
 Our research lab is broadly interested in multimodal machine learning and learning with limited supervision. We are particularly interested in building intelligent task assistants that can fuse linguistic, visual, and other types of modalities to perceive and interact with the world. Current language + vision projects involve multimodal representation learning, contrastive self-supervision, embodied AI, video localization and multi-agent communication. Applications include healthcare, medical imaging, manufacturing and misinformation detection.
 
@@ -21,6 +21,8 @@ Our research lab is broadly interested in multimodal machine learning and learni
 
 {% include section.html full=true %}
 # News
+- **Feb, 2023:** Congratulations to our PLANBot team ([Afrina](members/afrina-tabassum.html), [Muntasir](members/muntasir-wahed.html), [Makanjuola](members/makanjuola-ogunleye.html), [Amarachi](members/amarachi-blessing.html), and [Joey](members/tianjiao(joey)-yu.html)) for being selected for the [AlexaPrize TaskBot Challenge 2](https://www.amazon.science/alexa-prize/taskbot-challenge/ten-university-teams-selected-for-alexa-prize-taskbot-challenge-2)!
+- **Feb, 2023:** Congratulations to [Joey](members/tianjiao(joey)-yu.html) for his paper acceptance at TheWebConf2023 conference.
 - **Nov, 2022:** Congratulations to [Makanjuola](members/makanjuola-ogunleye.html) for receiving a 2022 Cadence Diversity in Technology Scholarship!
 - **Nov, 2022:** Congratulations to [Muntasir](members/muntasir-wahed.html) for receiving a VT Pratt Fellowship for the Spring 2023 semester!
 - **Oct, 2022:** Congratulations to [Amarachi](members/amarachi-blessing.html) and [Ying](members/ying-shen.html) for being nominated by the department for the TwoSigma Ph.D. Fellowship!
