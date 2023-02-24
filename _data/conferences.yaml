@@ -1,24 +1,6 @@
 - abstract-deadline: '-'
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
-  acceptance-rate-2021: 'Submission: Feb 20'
-  acceptance-rate-2022: 'Submission: Feb 25'
-  call-for-papers: https://www.auai.org/uai2023/call_for_papers
-  conference-date: 31 July - August 4, 2023
-  conference-location: Pittsburgh, PA, USA
-  core-ranking: A
-  h5-index: '45'
-  notification-date: Date(2023,4,8)
-  rebuttal-starts: Apr 11, 2023
-  sd-for-sorting: 2023-02-17 00:00:00
-  submission-deadline: Feb 17 2023
-  tags:
-  - uncertainty
-  - ' artificial intelligence'
-  title: Conference on Uncertainty in Artificial Intelligence (UAI)
-- abstract-deadline: '-'
-  acceptance-rate-2019: '-'
-  acceptance-rate-2020: '-'
   acceptance-rate-2021: '-'
   acceptance-rate-2022: '-'
   call-for-papers: https://ieee-iros.org
@@ -44,7 +26,7 @@
   core-ranking: A*
   h5-index: '239'
   notification-date: Date(2023,6,13)
-  rebuttal-starts: May 23, 2023
+  rebuttal-starts: Date(2023,4,23)
   sd-for-sorting: 2023-03-08 00:00:00
   submission-deadline: Mar 08 2023
   tags:
@@ -61,7 +43,7 @@
   core-ranking: A
   h5-index: '78'
   notification-date: Date(2023,5,23)
-  rebuttal-starts: May 24, 2023
+  rebuttal-starts: Date(2023,4,24)
   sd-for-sorting: 2023-03-09 00:00:00
   submission-deadline: Mar 09 2023
   tags:
@@ -69,6 +51,41 @@
   - ' computer assisted intervention'
   title: International Conference on Medical Image Computing and Computer Assisted
     Intervention (MICCAI)
+- abstract-deadline: Mar 26, 2023
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: 'Abstract: March'
+  call-for-papers: https://2023.ecmlpkdd.org/submissions/key-dates-deadlines/
+  conference-date: September 18-22, 2023
+  conference-location: Turin, Italy
+  core-ranking: A
+  h5-index: '40'
+  notification-date: Date(2023,5,5)
+  rebuttal-starts: '-'
+  sd-for-sorting: 2023-04-06 00:00:00
+  submission-deadline: Apr 06 2023
+  tags:
+  - machine learning and data mining
+  title: European Conference on Machine learning and knowledge discovery in databases
+    (ECML PKDD)
+- abstract-deadline: Apr 23, 2023
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://www.acmmm2023.org/cfp/
+  conference-date: "October 28 \u2013 November 3, 2023"
+  conference-location: Ottawa, Canada
+  core-ranking: A*
+  h5-index: '71'
+  notification-date: Date(2023,6,25)
+  rebuttal-starts: Date(2023,6,2)
+  sd-for-sorting: 2023-04-30 00:00:00
+  submission-deadline: Apr 30 2023
+  tags:
+  - multimedia
+  title: ACM Multimedia (ACMMM)
 - abstract-deadline: May 2, 2023
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
@@ -80,8 +97,59 @@
   core-ranking: A
   h5-index: '23'
   notification-date: Date(2023,6,15)
-  rebuttal-starts: June 25, 2023
+  rebuttal-starts: Date(2023,5,25)
   sd-for-sorting: 2023-05-08 00:00:00
   submission-deadline: May 08 2023
   tags: '-'
   title: European Conference on Artificial Intelligence (ECAI)
+- abstract-deadline: May 11, 2023
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://nips.cc/Conferences/2023/CallForPapers
+  conference-date: '-'
+  conference-location: '-'
+  core-ranking: A*
+  h5-index: '278'
+  notification-date: Date(2023,8,21)
+  rebuttal-starts: Date(2022,6,26)
+  sd-for-sorting: 2023-05-17 00:00:00
+  submission-deadline: May 17 2023
+  tags:
+  - machine learning
+  title: Neural Information Processing Systems (NeurIPS )
+- abstract-deadline: Aug 8, 2023
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://aaai.org/Conferences/AAAI-23/aaai23call/
+  conference-date: Feb 7 - 14, 2023
+  conference-location: Washington D.C.
+  core-ranking: A*
+  h5-index: '180'
+  notification-date: Date(2022,10,18)
+  rebuttal-starts: Date(2022,9,20)
+  sd-for-sorting: 2023-08-15 00:00:00
+  submission-deadline: Aug 15 2023
+  tags:
+  - machine learning
+  title: Association for the Advancement of Artificial Intelligence (AAAI)
+- abstract-deadline: Sep 21, 2023
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://iclr.cc/Conferences/2023/CallForPapers
+  conference-date: May 1-5, 2023
+  conference-location: Kigali, Rwanda
+  core-ranking: A*
+  h5-index: '286'
+  notification-date: Date(2023,0,20)
+  rebuttal-starts: Date(2023,10,4)
+  sd-for-sorting: 2023-09-28 00:00:00
+  submission-deadline: Sep 28 2023
+  tags:
+  - machine learning
+  title: International Conference on Learning Representations (ICLR )
