@@ -102,6 +102,23 @@
   submission-deadline: May 08 2023
   tags: '-'
   title: European Conference on Artificial Intelligence (ECAI)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://www.bmvc2023.org/authors/call-for-papers/
+  conference-date: November 20-23, 2023
+  conference-location: Aberdeen, Scotland
+  core-ranking: A
+  h5-index: '75'
+  notification-date: Date(2023,7,21)
+  rebuttal-starts: Date(2023,6,7)
+  sd-for-sorting: 2023-05-12 00:00:00
+  submission-deadline: May 12 2023
+  tags:
+  - computer vision
+  title: British Machine Vision Conference (BMVC)
 - abstract-deadline: May 11, 2023
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
