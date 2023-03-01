@@ -3,23 +3,6 @@
   acceptance-rate-2020: '-'
   acceptance-rate-2021: '-'
   acceptance-rate-2022: '-'
-  call-for-papers: https://ieee-iros.org
-  conference-date: October 1-5, 2023
-  conference-location: Detroit, USA
-  core-ranking: A
-  h5-index: '80'
-  notification-date: Date(2023,5,30)
-  rebuttal-starts: '-'
-  sd-for-sorting: 2023-03-01 00:00:00
-  submission-deadline: Mar 01 2023
-  tags:
-  - robotics
-  title: International Conference on Intelligent Robots and Systems (IROS)
-- abstract-deadline: '-'
-  acceptance-rate-2019: '-'
-  acceptance-rate-2020: '-'
-  acceptance-rate-2021: '-'
-  acceptance-rate-2022: '-'
   call-for-papers: https://iccv2023.thecvf.com/
   conference-date: Sep 30 - Oct 6, 2023
   conference-location: Paris, France
