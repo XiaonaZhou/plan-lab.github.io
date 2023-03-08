@@ -2,23 +2,6 @@
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
   acceptance-rate-2021: '-'
-  acceptance-rate-2022: '-'
-  call-for-papers: https://iccv2023.thecvf.com/
-  conference-date: Sep 30 - Oct 6, 2023
-  conference-location: Paris, France
-  core-ranking: A*
-  h5-index: '239'
-  notification-date: Date(2023,6,13)
-  rebuttal-starts: Date(2023,4,23)
-  sd-for-sorting: 2023-03-08 00:00:00
-  submission-deadline: Mar 08 2023
-  tags:
-  - computer vision
-  title: International Conference on Computer Vision (ICCV )
-- abstract-deadline: '-'
-  acceptance-rate-2019: '-'
-  acceptance-rate-2020: '-'
-  acceptance-rate-2021: '-'
   acceptance-rate-2022: 'Submission: February'
   call-for-papers: https://conferences.miccai.org/2023/en/
   conference-date: Oct 8 - 12, 2023
