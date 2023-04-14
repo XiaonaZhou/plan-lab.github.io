@@ -22,6 +22,7 @@ Our Perception and LANguage (PLAN) research lab is broadly interested in multimo
 {% include section.html full=true %}
 # News
 - **April, 2023:** [Makanjuola](members/makanjuola-ogunleye.html) is featured at [VT Daily News](https://vtx.vt.edu/articles/2023/03/makanjuola-ogunleye-among-eight-students-nationwide-awarded-cade.html) as one of the eight recipients of the Cadence Black Students in Technology Scholarship!
+- **April, 2023:** Thank you to the [Virginia Tech Student Engineers' Council (SEC)](https://www.sec.vt.edu/) for the Big Contribution grant.
 - **Feb, 2023:** [Makanjuola](members/makanjuola-ogunleye.html) is being featured in a [spotlight article](https://community.cadence.com/cadence_blogs_8/b/corporate/posts/meet-the-2022-black-students-in-technology-scholarship-recipients) by Cadence with other recipients of the Cadence Black Students in Technology Scholarship. Congratulations to all recipients!
 - **Feb, 2023:** Congratulations to our PLANBot team ([Afrina](members/afrina-tabassum.html), [Muntasir](members/muntasir-wahed.html), [Makanjuola](members/makanjuola-ogunleye.html), [Amarachi](members/amarachi-blessing.html), and [Joey](members/tianjiao(joey)-yu.html)) for being selected for the [AlexaPrize TaskBot Challenge 2](https://www.amazon.science/alexa-prize/taskbot-challenge/ten-university-teams-selected-for-alexa-prize-taskbot-challenge-2)!
 - **Feb, 2023:** Congratulations to [Joey](members/tianjiao(joey)-yu.html) for his paper acceptance at TheWebConf2023 conference.
