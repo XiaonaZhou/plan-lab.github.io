@@ -21,6 +21,7 @@ Our Perception and LANguage (PLAN) research lab is broadly interested in multimo
 
 {% include section.html full=true %}
 # News
+- **April, 2023:** Congratulations to [Meghana Holla](members/meghana-holla.html) for being selected as the Master's Paul E. Torgersen Research Excellence Award winner!
 - **April, 2023:** [Makanjuola](members/makanjuola-ogunleye.html) is featured at [VT Daily News](https://vtx.vt.edu/articles/2023/03/makanjuola-ogunleye-among-eight-students-nationwide-awarded-cade.html) as one of the eight recipients of the Cadence Black Students in Technology Scholarship!
 - **April, 2023:** Thank you to the [Virginia Tech Student Engineers' Council (SEC)](https://www.sec.vt.edu/) for the Big Contribution grant.
 - **Feb, 2023:** [Makanjuola](members/makanjuola-ogunleye.html) is being featured in a [spotlight article](https://community.cadence.com/cadence_blogs_8/b/corporate/posts/meet-the-2022-black-students-in-technology-scholarship-recipients) by Cadence with other recipients of the Cadence Black Students in Technology Scholarship. Congratulations to all recipients!
