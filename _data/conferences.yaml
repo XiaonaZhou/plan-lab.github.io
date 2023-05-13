@@ -32,6 +32,24 @@
   tags:
   - information retrieval
   title: ACM International Conference on Information and Knowledge Management (CIKM)
+- abstract-deadline: Jun 21, 2023
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://wacv2023.thecvf.com/node/135
+  conference-date: Jan 3 - 7, 2023
+  conference-location: Waikoloa, Hawaii
+  core-ranking: A
+  h5-index: '76'
+  notification-date: Date(2023,7,11)
+  rebuttal-starts: '-'
+  sd-for-sorting: 2023-06-28 00:00:00
+  submission-deadline: Jun 28 2023
+  tags:
+  - computer vision
+  - ' artificial intelligence'
+  title: Winter Conference on Applications of Computer Vision (WACV)
 - abstract-deadline: '-'
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
