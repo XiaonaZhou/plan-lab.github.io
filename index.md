@@ -22,6 +22,7 @@ Our Perception and LANguage (PLAN) research lab is broadly interested in multimo
 {% include section.html full=true %}
 # News
 - **May, 2023:** 🎓 Congratulations to [Gaurang](members/gaurang-ajit.html), [Meghana](members/meghana-holla.html), [Hulya](members/hulya-dogan.html) and [Avi](members/avi-seth.html) for graduating! 
+- **May, 2023:** Congratulations to [Vedant Shah](members/vedant-shah.html) for receiving a David Heilman Award for Excellence in Undergraduate Research!
 - **April, 2023:** Congratulations to [Meghana Holla](members/meghana-holla.html) for being selected as the Master's Paul E. Torgersen Research Excellence Award winner!
 - **April, 2023:** [Makanjuola](members/makanjuola-ogunleye.html) is featured at [VT Daily News](https://vtx.vt.edu/articles/2023/03/makanjuola-ogunleye-among-eight-students-nationwide-awarded-cade.html) as one of the eight recipients of the Cadence Black Students in Technology Scholarship!
 - **April, 2023:** Thank you to the [Virginia Tech Student Engineers' Council (SEC)](https://www.sec.vt.edu/) for the Big Contribution grant.
