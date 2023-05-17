@@ -1,20 +1,3 @@
-- abstract-deadline: May 11, 2023
-  acceptance-rate-2019: '-'
-  acceptance-rate-2020: '-'
-  acceptance-rate-2021: '-'
-  acceptance-rate-2022: '-'
-  call-for-papers: https://nips.cc/Conferences/2023/CallForPapers
-  conference-date: December 10-16, 2023
-  conference-location: New Orleans, LA, USA
-  core-ranking: A*
-  h5-index: '278'
-  notification-date: Date(2023,8,21)
-  rebuttal-starts: Date(2022,6,26)
-  sd-for-sorting: 2023-05-17 00:00:00
-  submission-deadline: May 17 2023
-  tags:
-  - machine learning
-  title: Neural Information Processing Systems (NeurIPS )
 - abstract-deadline: May 26, 2023
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
