@@ -8,13 +8,47 @@
   conference-location: Birmingham, UK
   core-ranking: A
   h5-index: '69'
-  notification-date: '-'
+  notification-date: Date(2023,7,4)
   rebuttal-starts: '-'
   sd-for-sorting: 2023-06-02 00:00:00
   submission-deadline: Jun 02 2023
   tags:
   - information retrieval
   title: ACM International Conference on Information and Knowledge Management (CIKM)
+- abstract-deadline: '-'
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://www.corl2023.org/
+  conference-date: Nov 6-9, 2023
+  conference-location: Atlanta, GA
+  core-ranking: '-'
+  h5-index: '64'
+  notification-date: Date(2023,7,30)
+  rebuttal-starts: Date(2023,7,8)
+  sd-for-sorting: 2023-06-08 00:00:00
+  submission-deadline: Jun 08 2023
+  tags:
+  - robotics and machine learning
+  title: Conference on Robot Learning (CoRL)
+- abstract-deadline: Jun 16, 2023
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://2023.emnlp.org/
+  conference-date: December 6-10, 2023
+  conference-location: Singapore
+  core-ranking: A
+  h5-index: '154'
+  notification-date: Date(2023,9,6)
+  rebuttal-starts: Date(2023,7,22)
+  sd-for-sorting: 2023-06-23 00:00:00
+  submission-deadline: Jun 23 2023
+  tags:
+  - natural language processing
+  title: Conference on Empirical Methods in Natural Language Processing (EMNLP)
 - abstract-deadline: Jun 21, 2023
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
@@ -25,14 +59,31 @@
   conference-location: Waikoloa, Hawaii
   core-ranking: A
   h5-index: '76'
-  notification-date: Date(2023,7,11)
-  rebuttal-starts: '-'
+  notification-date: Date(2023,9,20)
+  rebuttal-starts: Date(2023,7,11)
   sd-for-sorting: 2023-06-28 00:00:00
   submission-deadline: Jun 28 2023
   tags:
   - computer vision
   - ' artificial intelligence'
   title: Winter Conference on Applications of Computer Vision (WACV)
+- abstract-deadline: Aug 8, 2023
+  acceptance-rate-2019: '-'
+  acceptance-rate-2020: '-'
+  acceptance-rate-2021: '-'
+  acceptance-rate-2022: '-'
+  call-for-papers: https://aaai.org/aaai-conference/
+  conference-date: Feb 20-27, 2024
+  conference-location: Vancouver, Canada
+  core-ranking: A*
+  h5-index: '180'
+  notification-date: Date(3023,11,3)
+  rebuttal-starts: Date(2023,10,2)
+  sd-for-sorting: 2023-08-15 00:00:00
+  submission-deadline: Aug 15 2023
+  tags:
+  - machine learning
+  title: Association for the Advancement of Artificial Intelligence (AAAI)
 - abstract-deadline: '-'
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
