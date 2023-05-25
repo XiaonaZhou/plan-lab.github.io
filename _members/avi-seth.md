@@ -1,7 +1,7 @@
 ---
 name: Avi Seth
 image: images/members/AviSeth.jpg
-description: M.S. Student
+description: Alumni
 role: ms-student
 aliases:
   - Avi Seth
@@ -14,4 +14,4 @@ links:
   google-scholar: 7vtdRCQAAAAJ
 ---
 
-Graduating MS student with a knack for data. Currently working on Industrial Internet data-sharing platforms. I fancy myself as cricket's biggest fan and brew my own coffee - all kinds of them. 
+Graduating graduated with a Master's in Computer Science in Spring 2023. He has worked on Industrial Internet data-sharing platforms, and his thesis is titled *"Data Sharing & Retrieval of Manufacturing Processes"*. He is proficient is several programming languages and has built a search engine and retrieval platform for manufacturing participants. He is a fan of cricket and brews his own coffee. 
