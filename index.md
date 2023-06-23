@@ -37,7 +37,7 @@ Our Perception and LANguage (PLAN) research lab is broadly interested in multimo
 - **Oct. 2022:** Congratulations to [Ying](members/ying-shen.html) and [Amarachi](members/amarachi-blessing.html) for being nominated by the department for the Google Ph.D. Fellowship!
 - **Oct. 2022:** Congratulations to [Muntasir](members/muntasir-wahed.html) and [Avi](members/avi-seth.html) for their paper acceptance at the 2022 IEEE BigData conference.
 - **Oct. 2022:** Congratulations to [Hesam Soleimani](members/hesam-soleimani.html) for his journal accepted at the Mechanical Systems and Signal Processing (MSSP).
-- **Oct, 2022:** Our lab has received an [Amazon-VT faculty research award](https://www.amazon.science/latest-news/amazon-and-virginia-tech-announce-inaugural-fellowship-and-faculty-research-award-recipients) to work on Embodied AI research!
+- **Oct. 2022:** Our lab has received an [Amazon-VT faculty research award](https://www.amazon.science/latest-news/amazon-and-virginia-tech-announce-inaugural-fellowship-and-faculty-research-award-recipients) to work on Embodied AI research!
 - **Sept. 2022:** Congratulations to [Gaurang](members/gaurang-ajit.html) and [Amarachi](members/amarachi-blessing.html) for the MICCAI 2022 paper acceptance.
 - **August 2022:** Our lab has received DARPA KMASS funding!
 - **July 2022:** Our lab has received Commonwealth Cyber Initiative (CCI) funding on ML-based code repair!
