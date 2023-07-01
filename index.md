@@ -21,6 +21,7 @@ Our Perception and LANguage (PLAN) research lab is broadly interested in multimo
 
 {% include section.html full=true %}
 # News
+- **July 2023:** Congratulations to the PLANBot team for advancing to the [AlexaPrize TaskBot Challenge 2 semifinals](https://www.amazon.science/alexa-prize/taskbot-challenge/2022)!
 - **June 2023:** 🎓 Congratulations to [Ming](members/ming-zhu.html) for successfully defending her Ph.D. thesis! 
 - **May 2023:** 🎓 Congratulations to [Avi](members/avi-seth.html), [Gaurang](members/gaurang-ajit.html), [Hulya](members/hulya-dogan.html), and [Meghana](members/meghana-holla.html) for graduating! 
 - **May 2023:** Congratulations to [Vedant Shah](members/vedant-shah.html) for receiving a David Heilman Award for Excellence in Undergraduate Research!
