@@ -1,20 +1,3 @@
-- abstract-deadline: Aug 8, 2023
-  acceptance-rate-2019: '-'
-  acceptance-rate-2020: '-'
-  acceptance-rate-2021: '-'
-  acceptance-rate-2022: '-'
-  call-for-papers: https://aaai.org/aaai-conference/
-  conference-date: Feb 20-27, 2024
-  conference-location: Vancouver, Canada
-  core-ranking: A*
-  h5-index: '180'
-  notification-date: Date(3023,11,3)
-  rebuttal-starts: Date(2023,10,2)
-  sd-for-sorting: 2023-08-15 00:00:00
-  submission-deadline: Aug 15 2023
-  tags:
-  - machine learning
-  title: Association for the Advancement of Artificial Intelligence (AAAI)
 - abstract-deadline: '-'
   acceptance-rate-2019: '-'
   acceptance-rate-2020: '-'
