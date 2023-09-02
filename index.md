@@ -21,6 +21,10 @@ Our Perception and LANguage (PLAN) research lab is broadly interested in multimo
 
 {% include section.html full=true %}
 # News
+- **September 2023:** 🏆 Congratulations to the VT PLANBot team for advancing to the [AlexaPrize TaskBot Challenge 2 finals](https://www.amazon.science/alexa-prize/taskbot-challenge/2022)! 🚀 Go Hokies!
+- **August 2023:** Our lab has received DARPA ECOLE funding!
+- **August 2023:** Congratulations to [Muntasir](members/muntasir-wahed.html) for receiving a VT Pratt Fellowship for the Fall 2023 semester and first-authoring a CIKM 2023 Applied Research accepted paper.
+- **August 2023:** Congratulations to [Amarachi](members/amarachi-blessing.html) for her first-authored MICCAI 2023 work on ViTs for disease progression.
 - **July 2023:** Congratulations to the PLANBot team for advancing to the [AlexaPrize TaskBot Challenge 2 semifinals](https://www.amazon.science/alexa-prize/taskbot-challenge/2022)!
 - **June 2023:** 🎓 Congratulations to [Ming](members/ming-zhu.html) for successfully defending her Ph.D. thesis! 
 - **May 2023:** 🎓 Congratulations to [Avi](members/avi-seth.html), [Gaurang](members/gaurang-ajit.html), [Hulya](members/hulya-dogan.html), and [Meghana](members/meghana-holla.html) for graduating! 
