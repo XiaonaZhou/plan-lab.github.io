@@ -21,6 +21,8 @@ Our Perception and LANguage (PLAN) research lab is broadly interested in multimo
 
 {% include section.html full=true %}
 # News
+- **October 2023:** Congratulations to [Ying](members/ying-shen.html) for receiving an [Amazon-VT Fellowship](https://www.amazon.science/news-and-features/amazon-and-virginia-tech-announce-2023-2024-fellowship-faculty-research-award-recipients)!
+- **October 2023:** PLAN Lab has received new [Amazon-VT](https://www.amazon.science/news-and-features/amazon-and-virginia-tech-announce-2023-2024-fellowship-faculty-research-award-recipients) funding to continue work on Embodied AI. 
 - **September 2023:** 🏆 Congratulations to the VT PLANBot team for advancing to the [AlexaPrize TaskBot Challenge 2 finals](https://www.amazon.science/alexa-prize/taskbot-challenge/2022)! 🚀 Go Hokies!
 - **August 2023:** Our lab has received DARPA ECOLE funding!
 - **August 2023:** Congratulations to [Muntasir](members/muntasir-wahed.html) for receiving a VT Pratt Fellowship for the Fall 2023 semester and first-authoring a CIKM 2023 Applied Research accepted paper.
@@ -38,15 +40,15 @@ Our Perception and LANguage (PLAN) research lab is broadly interested in multimo
 - **Feb. 2023:** Congratulations to [Amarachi](members/amarachi-blessing.html) for her co-authored [PLOS Digital Health editorial](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000205) on ChatGPT and medical education.
 - **Nov. 2022:** Congratulations to [Makanjuola](members/makanjuola-ogunleye.html) for receiving a 2022 Cadence Diversity in Technology Scholarship!
 - **Nov. 2022:** Congratulations to [Muntasir](members/muntasir-wahed.html) for receiving a VT Pratt Fellowship for the Spring 2023 semester!
-- **Oct. 2022:** Congratulations to [Amarachi](members/amarachi-blessing.html) and [Ying](members/ying-shen.html) for being nominated by the department for the TwoSigma Ph.D. Fellowship!
-- **Oct. 2022:** Congratulations to [Ying](members/ying-shen.html) and [Amarachi](members/amarachi-blessing.html) for being nominated by the department for the Google Ph.D. Fellowship!
+<!-- - **Oct. 2022:** Congratulations to [Amarachi](members/amarachi-blessing.html) and [Ying](members/ying-shen.html) for being nominated by the department for the TwoSigma Ph.D. Fellowship!
+- **Oct. 2022:** Congratulations to [Ying](members/ying-shen.html) and [Amarachi](members/amarachi-blessing.html) for being nominated by the department for the Google Ph.D. Fellowship! -->
 - **Oct. 2022:** Congratulations to [Muntasir](members/muntasir-wahed.html) and [Avi](members/avi-seth.html) for their paper acceptance at the 2022 IEEE BigData conference.
 - **Oct. 2022:** Congratulations to [Hesam Soleimani](members/hesam-soleimani.html) for his journal accepted at the Mechanical Systems and Signal Processing (MSSP).
 - **Oct. 2022:** Our lab has received an [Amazon-VT faculty research award](https://www.amazon.science/latest-news/amazon-and-virginia-tech-announce-inaugural-fellowship-and-faculty-research-award-recipients) to work on Embodied AI research!
 - **Sept. 2022:** Congratulations to [Gaurang](members/gaurang-ajit.html) and [Amarachi](members/amarachi-blessing.html) for the MICCAI 2022 paper acceptance.
 - **August 2022:** Our lab has received DARPA KMASS funding!
 - **July 2022:** Our lab has received Commonwealth Cyber Initiative (CCI) funding on ML-based code repair!
-- **May 2022:** Congratulations to [Amarachi](members/amarachi-blessing.html)'s department nomination for the Microsoft Ph.D. Fellowship!
+<!-- - **May 2022:** Congratulations to [Amarachi](members/amarachi-blessing.html)'s department nomination for the Microsoft Ph.D. Fellowship! -->
 - **February 2022:** Our lab has received [NSF EAGER CMMI-AM](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2208864&HistoricalAwards=false) funding!
 
 
