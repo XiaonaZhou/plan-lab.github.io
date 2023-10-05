@@ -151,20 +151,20 @@
   - contrastive learning
   - self-supervised learning
   _cache: 8171d07c5251f05bf75d67fb387e813c754b0c276558c105a51815a91633ca9b
-- id: doi:10.48550/arXiv.2206.07796
+- id: doi:10.1109/APR59189.2023.00009
   title: 'FixEval: Execution-based Evaluation of Program Fixes for Programming Problems'
   authors:
   - Md Mahim Anjum Haque
   - Wasi Uddin Ahmad
   - Ismini Lourentzou
   - Chris Brown
-  publisher: arXiv
-  date: '2022-01-01'
-  link: https://doi.org/gqt868
+  publisher: 2023 IEEE/ACM International Workshop on Automated Program Repair (APR)
+  date: '2023-05-01'
+  link: https://doi.org/gstd7z
   image: images/publications/fixeval.PNG
   tags:
   - code repair
-  _cache: c1d06f982d538110ef443ad3edde1ed5cbdac47c998a6bb6531b6663c4c663f7
+  _cache: 8ebf6c540b3f22aa2424411f43c7e09c870c999fd1bddac40c078774d0ef05c2
 - id: doi:10.1145/3529190.3529222
   title: '[Data] Quality Lies In The Eyes Of The Beholder'
   authors:
@@ -197,3 +197,84 @@
   - scene-graphs
   - medical imaging
   _cache: 500cd09e003159483cedd3c64fe2fd1d046b1a9deb20a04e8c6cc8ce9a756052
+- id: doi:10.1016/j.ymssp.2022.109910
+  title: On the effectiveness of dimensionality reduction for unsupervised structural
+    health monitoring anomaly detection
+  authors:
+  - Mohammad Hesam Soleimani-Babakamali
+  - Roksana Soleimani-Babakamali
+  - Rodrigo Sarlo
+  - Mohammed F. Farghally
+  - Ismini Lourentzou
+  publisher: Mechanical Systems and Signal Processing
+  date: '2023-03-01'
+  link: https://doi.org/gstd72
+  _cache: 23b154c26d7d2e346dcac88eba18520a71ee17d3424119a91934e8fc84da1443
+- id: doi:10.1109/BigData55660.2022.10020861
+  title: Task-Driven Privacy-Preserving Data-Sharing Framework for the Industrial
+    Internet
+  authors:
+  - Parshin Shojaee
+  - Yingyan Zeng
+  - Muntasir Wahed
+  - Avi Seth
+  - Ran Jin
+  - Ismini Lourentzou
+  publisher: 2022 IEEE International Conference on Big Data (Big Data)
+  date: '2022-12-17'
+  link: https://doi.org/gstd73
+  _cache: a32d4dc4799890c00ca98d5b7631e142b87e14dfa5ee0372b980887b6fc997de
+- id: doi:10.48550/arXiv.2302.04865
+  title: Learning by Asking for Embodied Visual Navigation and Task Completion
+  authors:
+  - Ying Shen
+  - Ismini Lourentzou
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/gstd74
+  _cache: c5b6fb338472b80816471a896b15a2549baf55c91a4487b1569abce3527f6999
+- id: doi:10.1371/journal.pdig.0000205
+  title: ChatGPT passing USMLE shines a spotlight on the flaws of medical education
+  authors:
+  - Amarachi B. Mbakwe
+  - Ismini Lourentzou
+  - Leo Anthony Celi
+  - Oren J. Mechanic
+  - Alon Dagan
+  publisher: PLOS Digital Health
+  date: '2023-02-09'
+  link: https://doi.org/gstd75
+  _cache: 31cb80fa5ce51bcaa702c698f89543e70b8468b7b5c7be55f3c61c03e4032256
+- id: doi:10.1145/3543507.3583514
+  title: 'Sedition Hunters: A Quantitative Study of the Crowdsourced Investigation
+    into the 2021 U.S. Capitol Attack'
+  authors:
+  - Tianjiao Yu
+  - Sukrit Venkatagiri
+  - Ismini Lourentzou
+  - Kurt Luther
+  publisher: Proceedings of the ACM Web Conference 2023
+  date: '2023-04-30'
+  link: https://doi.org/gr63zs
+  _cache: 13ae81c8e4facc9c38fe089307fc36ce28bb23b5142e969c97c2f09a96186ec8
+- id: doi:10.1016/j.ebiom.2023.104525
+  title: 'Fairness metrics for health AI: we have a long way to go'
+  authors:
+  - Amarachi B. Mbakwe
+  - Ismini Lourentzou
+  - Leo Anthony Celi
+  - Joy T. Wu
+  publisher: eBioMedicine
+  date: '2023-04-01'
+  link: https://doi.org/gstd76
+  _cache: 284df99a8d88d753aef2e7692a3636ec3f02e3dad0fd85644cdbdf9079875aec
+- id: doi:10.1007/978-3-031-43849-3_22
+  title: "Multi-view Graph-Based Text Representations for\_Imbalanced Classification"
+  authors:
+  - Ola Karajeh
+  - Ismini Lourentzou
+  - Edward A. Fox
+  publisher: Linking Theory and Practice of Digital Libraries
+  date: '2023-01-01'
+  link: https://doi.org/gstd77
+  _cache: cf0bbb41340cfa13c9dc8cfa5e6062f850e72d93af0d604a1f847c3e867316d7
