@@ -37,7 +37,7 @@
   tags:
     - contrastive learning
     - self-supervised learning
-- id: doi:10.48550/arXiv.2206.07796
+- id: doi:10.1109/APR59189.2023.00009
   image: images/publications/fixeval.PNG
   tags:
     - code repair
@@ -50,3 +50,10 @@
   tags:
     - scene-graphs
     - medical imaging
+- id: doi:10.1016/j.ymssp.2022.109910
+- id: doi:10.1109/BigData55660.2022.10020861
+- id: doi:10.48550/arXiv.2302.04865
+- id: doi:10.1371/journal.pdig.0000205
+- id: doi:10.1145/3543507.3583514
+- id: doi:10.1016/j.ebiom.2023.104525
+- id: doi:10.1007/978-3-031-43849-3_22
