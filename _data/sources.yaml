@@ -15,6 +15,7 @@
     - scene-graphs
     - medical imaging
 - id: doi:10.1145/3459637.3481950
+  title: SAUCE: Truncated Sparse Document Signature Bit-Vectors for Fast Web-Scale Corpus Expansion
   image: images/publications/sauce.PNG
   tags:
     - information retrieval
