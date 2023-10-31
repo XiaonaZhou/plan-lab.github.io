@@ -278,3 +278,26 @@
   date: '2023-01-01'
   link: https://doi.org/gstd77
   _cache: cf0bbb41340cfa13c9dc8cfa5e6062f850e72d93af0d604a1f847c3e867316d7
+- id: doi:10.1145/3583780.3615485
+  title: 'MArBLE: Hierarchical Multi-Armed Bandits for Human-in-the-Loop Set Expansion'
+  authors:
+  - Muntasir Wahed
+  - Daniel Gruhl
+  - Ismini Lourentzou
+  publisher: Proceedings of the 32nd ACM International Conference on Information and
+    Knowledge Management
+  date: '2023-10-21'
+  link: https://doi.org/gs24mj
+  _cache: ad13af329b6552495b88b3c82dde6c0623cf9b311ce7ad4602fadea605cb0047
+- id: doi:10.1007/978-3-031-43904-9_66
+  title: "Hierarchical Vision Transformers for\_Disease Progression Detection in\_\
+    Chest X-Ray Images"
+  authors:
+  - Amarachi B. Mbakwe
+  - Lyuyang Wang
+  - Mehdi Moradi
+  - Ismini Lourentzou
+  publisher: Lecture Notes in Computer Science
+  date: '2023-01-01'
+  link: https://doi.org/gs24mk
+  _cache: 20d2f362761d41c621dbdbdec789f1667efbc4082ed0c98b5f4b4c12bdfbdc00
