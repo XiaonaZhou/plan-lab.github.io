@@ -65,7 +65,8 @@
   - medical imaging
   _cache: c61787c531f419f1056c9937f4c29dc4bc214f8c01fea5a8dfbdc3487866f122
 - id: doi:10.1145/3459637.3481950
-  title: SAUCE
+  title: 'SAUCE: Truncated Sparse Document Signature Bit-Vectors for Fast Web-Scale
+    Corpus Expansion'
   authors:
   - Muntasir Wahed
   - Daniel Gruhl
@@ -82,7 +83,7 @@
   image: images/publications/sauce.PNG
   tags:
   - information retrieval
-  _cache: de4475b631d4b6db34cadb4bee1bd5024a701efa18dfa7f3d60fd93034376775
+  _cache: 2f132398073e96f2052402bc92d521827ae64d2056a0f5bd0034eb371ad96541
 - id: doi:10.1111/mice.12812
   title: Toward a general unsupervised novelty detection framework in structural health
     monitoring
