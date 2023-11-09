@@ -60,3 +60,11 @@
 - id: doi:10.1007/978-3-031-43849-3_22
 - id: doi:10.1145/3583780.3615485
 - id: doi:10.1007/978-3-031-43904-9_66
+- title: Fine-Grained Alignment for Cross-Modal Recipe Retrieval
+  authors:
+  - Muntasir Wahed
+  - Xiaona Zhou
+  - Tianjiao Yu
+  - Ismini Lourentzou
+  publisher: IEEE/CVF Winter Conference on Applications of Computer Vision
+  date: '2024-01-04'
