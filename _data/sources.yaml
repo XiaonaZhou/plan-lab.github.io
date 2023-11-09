@@ -60,7 +60,7 @@
 - id: doi:10.1007/978-3-031-43849-3_22
 - id: doi:10.1145/3583780.3615485
 - id: doi:10.1007/978-3-031-43904-9_66
-- id: n/a
+- id: doi:10.1145/3583780.3615485
   title: Fine-Grained Alignment for Cross-Modal Recipe Retrieval
   authors:
   - Muntasir Wahed
