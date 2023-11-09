@@ -135,8 +135,8 @@
   - contrastive learning
   - self-supervised learning
   - adversarial attacks
-  - robust ML
-  _cache: 2f200f2e469265fe2ab3d95f2caf17b428b2ac2da4605fd98974e32a6bce5c34
+  - robust representations
+  _cache: fed2c30de3fe2a84d17b335af1c3f2553c024e1a861311469bc65a784aaeb2d8
 - id: doi:10.48550/arXiv.2206.01197
   title: Hard Negative Sampling Strategies for Contrastive Representation Learning
   authors:
@@ -310,4 +310,7 @@
   - Ismini Lourentzou
   publisher: IEEE/CVF Winter Conference on Applications of Computer Vision
   date: '2024-01-04'
-  _cache: 4f93bc799de202d4b5b0f3906ed1ddfd5b74643ab519975655552c978c428057
+  tags:
+  - multi-modal learning
+  - robust representations
+  _cache: a71e58723c1c5fec6dd0646de97f9835b680d86c002bb8a0e00d58c26a4d39b9
