@@ -32,7 +32,7 @@
     - contrastive learning
     - self-supervised learning
     - adversarial attacks
-    - robust ML
+    - robust representations
 - id: doi:10.48550/arXiv.2206.01197
   image: images/publications/hard_negative.PNG
   tags:
@@ -68,3 +68,6 @@
   - Ismini Lourentzou
   publisher: IEEE/CVF Winter Conference on Applications of Computer Vision
   date: '2024-01-04'
+  tags: 
+  - multi-modal learning
+  - robust representations
