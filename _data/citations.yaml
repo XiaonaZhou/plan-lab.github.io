@@ -302,7 +302,8 @@
   date: '2023-01-01'
   link: https://doi.org/gs24mk
   _cache: 20d2f362761d41c621dbdbdec789f1667efbc4082ed0c98b5f4b4c12bdfbdc00
-- title: Fine-Grained Alignment for Cross-Modal Recipe Retrieval
+- id: doi:10.1145/3583780.3615485
+  title: Fine-Grained Alignment for Cross-Modal Recipe Retrieval
   authors:
   - Muntasir Wahed
   - Xiaona Zhou
@@ -310,7 +311,8 @@
   - Ismini Lourentzou
   publisher: IEEE/CVF Winter Conference on Applications of Computer Vision
   date: '2024-01-04'
+  link: https://doi.org/gs24mj
   tags:
   - multi-modal learning
   - robust representations
-  _cache: a71e58723c1c5fec6dd0646de97f9835b680d86c002bb8a0e00d58c26a4d39b9
+  _cache: 8741c6eac5ecb9f4e544a043d569d0225d458127f6509c759c0e0132d30f1ac4
