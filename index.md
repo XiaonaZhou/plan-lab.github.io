@@ -21,7 +21,11 @@ Our Perception and LANguage (PLAN) research lab is broadly interested in multimo
 
 {% include section.html full=true %}
 # News
-- **October 2023:** Congratulations to [Ying](members/ying-shen.html) for receiving an [Amazon-VT Fellowship](https://www.amazon.science/news-and-features/amazon-and-virginia-tech-announce-2023-2024-fellowship-faculty-research-award-recipients)!
+- **December 2023:** Congratulations to [Meghana](members/meghana-holla.html) for her AAAI'24 paper on zero-shot language video localization.
+- **December 2023:** Congratulations to [Hulya](members/hulya-dogan.html) and [Kiet](members/kiet-nguyen.html) for their CSCW'24 paper on examining online U.S. political discourse related to refugees.
+- **December 2023:** Congratulations to [Afrina](members/afrina-tabassum.html) for her ICASSP'24 paper on finetuning audio Trasformers with unsupervised audio mixtures (internship work @ Microsoft Research).
+- **December 2023:** Congratulations to [Muntasir](members/muntasir-wahed.html), [Xiaona](members/xiaona-zhou.html), and [Joey](members/tianjiao(joey)-yu.html) for their WACV'24 paper on fine-grained alignment for cross-modal recipe retrieval.
+- **October 2023:** Congratulations to [Ying](members/ying-shen.html) for receiving an [Amazon-VT Fellowship](https://www.amazon.science/news-and-features/amazon-and-virginia-tech-announce-2023-2024-fellowship-faculty-research-award-recipients)!during her internship at MSR. 
 - **October 2023:** PLAN Lab has received new [Amazon-VT](https://www.amazon.science/news-and-features/amazon-and-virginia-tech-announce-2023-2024-fellowship-faculty-research-award-recipients) funding to continue work on Embodied AI. 
 - **September 2023:** 🏆 Congratulations to the VT PLANBot team for advancing to the [AlexaPrize TaskBot Challenge 2 finals](https://www.amazon.science/alexa-prize/taskbot-challenge/2022)! 🚀 Go Hokies!
 - **August 2023:** Our lab has received DARPA ECOLE funding!
