@@ -290,14 +290,18 @@
   date: '2023-10-21'
   link: https://doi.org/gs24mj
   _cache: ad13af329b6552495b88b3c82dde6c0623cf9b311ce7ad4602fadea605cb0047
-- id: doi:10.1007/978-3-031-43904-9
-  title: "Medical Image Computing and Computer Assisted Intervention \u2013 MICCAI\
-    \ 2023"
-  authors: []
+- id: doi:10.1007/978-3-031-43904-9_66
+  title: "Hierarchical Vision Transformers for\_Disease Progression Detection in\_\
+    Chest X-Ray Images"
+  authors:
+  - Amarachi B. Mbakwe
+  - Lyuyang Wang
+  - Mehdi Moradi
+  - Ismini Lourentzou
   publisher: "Medical Image Computing and Computer Assisted Intervention \u2013 MICCAI"
   date: '2023-01-01'
-  link: https://doi.org/gtdh4f
-  _cache: e4e5b04840da3cb08c9ef728087ee483fee877f76ee2e755f5c07def0f54a3e9
+  link: https://doi.org/gs24mk
+  _cache: f5e46c8f57d9a425358277d256e6cf9738d6f6c2179313fc58b0548d293f2e53
 - id: doi:10.1145/3583780.3615485
   title: Fine-Grained Alignment for Cross-Modal Recipe Retrieval
   authors:
