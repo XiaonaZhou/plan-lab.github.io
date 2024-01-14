@@ -180,24 +180,24 @@
   tags:
   - data quality
   _cache: ea7371c65df83ffa4e5f319cb5dc32671fd135e7d217c99554e14e9185c4233b
-- id: doi:10.48550/arXiv.2208.03873
-  title: 'CheXRelNet: An Anatomy-Aware Model for Tracking Longitudinal Relationships
-    between Chest X-Rays'
+- id: doi:10.1007/978-3-031-16431-6_55
+  title: "CheXRelNet: An Anatomy-Aware Model for\_Tracking Longitudinal Relationships\
+    \ Between Chest X-Rays"
   authors:
   - Gaurang Karwande
-  - Amarachi Mbakawe
+  - Amarachi B. Mbakwe
   - Joy T. Wu
   - Leo A. Celi
   - Mehdi Moradi
   - Ismini Lourentzou
-  publisher: arXiv
+  publisher: "Medical Image Computing and Computer Assisted Intervention \u2013 MICCAI"
   date: '2022-01-01'
-  link: https://doi.org/gqt87b
+  link: https://doi.org/gtdh4d
   image: images/publications/CheXRelNet.PNG
   tags:
   - scene-graphs
   - medical imaging
-  _cache: 500cd09e003159483cedd3c64fe2fd1d046b1a9deb20a04e8c6cc8ce9a756052
+  _cache: d217e500465db9f48ebac4dcaa4ec6b935d96257b1a5612d921d02eca6d84efe
 - id: doi:10.1016/j.ymssp.2022.109910
   title: On the effectiveness of dimensionality reduction for unsupervised structural
     health monitoring anomaly detection
@@ -290,18 +290,14 @@
   date: '2023-10-21'
   link: https://doi.org/gs24mj
   _cache: ad13af329b6552495b88b3c82dde6c0623cf9b311ce7ad4602fadea605cb0047
-- id: doi:10.1007/978-3-031-43904-9_66
-  title: "Hierarchical Vision Transformers for\_Disease Progression Detection in\_\
-    Chest X-Ray Images"
-  authors:
-  - Amarachi B. Mbakwe
-  - Lyuyang Wang
-  - Mehdi Moradi
-  - Ismini Lourentzou
-  publisher: Lecture Notes in Computer Science
+- id: doi:10.1007/978-3-031-43904-9
+  title: "Medical Image Computing and Computer Assisted Intervention \u2013 MICCAI\
+    \ 2023"
+  authors: []
+  publisher: "Medical Image Computing and Computer Assisted Intervention \u2013 MICCAI"
   date: '2023-01-01'
-  link: https://doi.org/gs24mk
-  _cache: 20d2f362761d41c621dbdbdec789f1667efbc4082ed0c98b5f4b4c12bdfbdc00
+  link: https://doi.org/gtdh4f
+  _cache: e4e5b04840da3cb08c9ef728087ee483fee877f76ee2e755f5c07def0f54a3e9
 - id: doi:10.1145/3583780.3615485
   title: Fine-Grained Alignment for Cross-Modal Recipe Retrieval
   authors:
