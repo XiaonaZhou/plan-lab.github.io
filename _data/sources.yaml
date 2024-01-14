@@ -46,7 +46,8 @@
   image: images/publications/data_quality.PNG
   tags:
     - data quality
-- id: doi:10.48550/arXiv.2208.03873
+- id: doi:10.1007/978-3-031-16431-6_55
+  publisher: Medical Image Computing and Computer Assisted Intervention – MICCAI
   image: images/publications/CheXRelNet.PNG
   tags:
     - scene-graphs
@@ -59,7 +60,8 @@
 - id: doi:10.1016/j.ebiom.2023.104525
 - id: doi:10.1007/978-3-031-43849-3_22
 - id: doi:10.1145/3583780.3615485
-- id: doi:10.1007/978-3-031-43904-9_66
+- id: doi:10.1007/978-3-031-43904-9
+  publisher: Medical Image Computing and Computer Assisted Intervention – MICCAI
 - id: doi:10.1145/3583780.3615485
   title: Fine-Grained Alignment for Cross-Modal Recipe Retrieval
   authors:
