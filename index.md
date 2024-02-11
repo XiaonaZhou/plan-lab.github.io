@@ -110,7 +110,9 @@ Our work is made possible by funding from several organizations.
 {:.center}
 {% include banner.html image="images/funding/funding_merged.png" %}
 
+<!--
 # Affiliations
 Our lab is affiliated with several institutes.
 {% include banner.html image="images/affiliations/affiliations_merged.png" %}
 {:.center}
+-->
