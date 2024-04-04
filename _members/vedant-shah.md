@@ -1,8 +1,8 @@
 ---
 name: Vedant Shah
 image: images/members/Vedant.jpg
-description: Undergrad
-role: undergrad
+description: M.S. Student
+role: ms-student
 aliases:
   - Vedant Shah
   - V Shah
