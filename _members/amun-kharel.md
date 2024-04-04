@@ -1,8 +1,8 @@
 ---
 name: Amun Kharel
 image: images/members/AmunKharel.jpg
-description: ms-student
-role: Alumni
+description: Alumni
+role: ms-student
 aliases:
   - Amun Kharel
   - A Kharel
