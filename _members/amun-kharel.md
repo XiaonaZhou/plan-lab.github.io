@@ -1,8 +1,8 @@
 ---
 name: Amun Kharel
 image: images/members/AmunKharel.jpg
-description: Ph.D. Student
-role: phd-student
+description: ms-student
+role: Alumni
 aliases:
   - Amun Kharel
   - A Kharel
@@ -14,7 +14,4 @@ links:
   google-scholar: A1tL2cAAAAAJ
 ---
 
-I am a second year PhD student at Virginia Tech.
-I believe my fellow human beings are infinitely valuable, which is why I chose computer science because I can leverage my skills to bring joy to people. For example, if there is a tedious task that requires human effort that could be done more efficiently, I would love to work on those problems. Time flies when I am solving math or computer science problems.
-My research interests are Embodied Artificial Intelligence, Applied Computer Vision.
-I have worked 3 years as a web-developer as an undergraduate (prior to coming to VT) and currently I work as a Graduate Teaching Assistant for the computer science department at VT.
+My research interests are Applied Computer Vision. I have worked for 3 years as a web developer as an undergraduate (prior to coming to VT) and currently I work as a Graduate Teaching Assistant for the computer science department at VT.
