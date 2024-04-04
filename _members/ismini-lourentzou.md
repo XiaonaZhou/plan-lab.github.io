@@ -9,7 +9,7 @@ aliases:
   - I. Lourentzou
 links:
   home-page: https://isminoula.github.io/
-  email: ilourentzou@vt.edu
+  email: lourent2@illinois.edu
   github: isminoula
   google-scholar: CjxQvikAAAAJ
 ---
