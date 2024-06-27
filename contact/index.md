@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Computer Science](https://cs.vt.edu/) and the [Sanghani Center for AI and Data Analytics](https://sanghani.cs.vt.edu/) at [Virginia Tech](https://vt.edu/). We are located at 3160 [Torgersen Hall](https://www.vt.edu/about/locations/buildings/torgersen-hall.html).
+Our lab is part of the [School of information Sciences](https://ischool.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/). We are located at 604 E. Daniel St, Champaign, IL.
 
 {%
   include link.html
@@ -42,23 +42,9 @@ Our lab is part of the [Department of Computer Science](https://cs.vt.edu/) and 
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-3160 Torgersen Hall  
-Blacksburg, VA-24060
+Room 5154, 604 E. Daniel St.
+Champaign, IL 61820
 USA
 {:.center}
 
-{% capture col1 %}
-{%
-  include figure.html
-  image="images/torg_bridge.jpg"
-  caption="Torgersen Bridge"
-%}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/duck_pond.jpeg"
-  caption="Duck Pond"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
+
