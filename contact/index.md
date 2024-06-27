@@ -13,9 +13,9 @@ Our lab is part of the [School of information Sciences](https://ischool.illinois
   include link.html
   type="email"
   icon=""
-  text="ilourentzou@vt.edu"
+  text="lourent2@illinois.edu"
   tooltip=""
-  link="ilourentzou@vt.edu"
+  link="lourent2@illinois.edu"
   style="button"
 %}
 {%
@@ -33,7 +33,7 @@ Our lab is part of the [School of information Sciences](https://ischool.illinois
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://goo.gl/maps/m9yuhjPbBPNzfyUr8"
+  link="https://maps.app.goo.gl/gJjbiwgue9RRK7yJ7"
   style="button"
 %}
 {:.center}
