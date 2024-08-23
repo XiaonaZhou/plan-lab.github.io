@@ -1,8 +1,8 @@
 ---
 name: Chase Vickery
 image: images/members/ChaseVickery.jpg
-description: Ph.D. Student
-role: phd-student
+description: Alumni
+role: ms-student
 aliases:
   - Chase Vickery
   - C Vickery
@@ -14,4 +14,4 @@ links:
   google-scholar: 
 ---
 
-Hello there, I'm Chase. I'm currently in the Computer Science Ph.D. program at Virginia Tech pursing topics on embodied AI and multimodal reinforcement learning.
+Hello there, I'm Chase. I obtained my M.S. in Computer Science at Virginia Tech pursuing topics on multimodal reinforcement learning.
