@@ -9,9 +9,9 @@ aliases:
   - X. Zhou
 links:
   home-page: 
-  email: Xzhou1@vt.edu
+  email: xiaonaz2@illinois.edu
   github: XiaonaZhou
   google-scholar: TgdQrLwAAAAJ
 ---
 
-Xiaona is a first-year Ph.D. student in Computer Science at Virginia Tech. She developed an interest in Data Science and Machine Learning during her undergraduate study as a math student. She is excited about the new academic journey ahead of her at Virginia Tech.
+Xiaona is a second-year Ph.D. student in Computer Science at the University of Illinois Urbana-Champaign. She has prior experience in cross-modal information retrieval and dataset selection through reinforcement learning. In addition to her academic work, she is a year-round research intern at Sandia National Laboratories, where she focuses on anomaly detection in various scenarios.
